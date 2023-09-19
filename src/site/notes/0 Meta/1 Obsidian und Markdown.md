@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/0 Meta/1 Obsidian und Markdown/"}
 ---
 
-
-
 für persönliches Wissensmanagement, digitales Notizbuch,  tägliches Aufgabenmanagement,...
 
 - # Notizen
