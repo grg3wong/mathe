@@ -25,6 +25,11 @@ für persönliches Wissensmanagement, digitales Notizbuch,  tägliches Aufgabenm
 		```*kursiv*``` oder markiertes Wort mit Strg+I
 	- ==hervorgehoben==
 		```==markiert==```
+	- Tabellen
+		|A|B|C|
+		|:---|:---:|---:|
+		|links|zentriert|rechts|
+
 - # Links
 	- Links als Text
 		```[Anzeigetext](Zieladresse)``` oder ```[[Anzeigetext|Zieladresse]]```
@@ -46,4 +51,3 @@ für persönliches Wissensmanagement, digitales Notizbuch,  tägliches Aufgabenm
 # Plugins
 - [Spaced Repetition](obsidian://show-plugin?id=obsidian-spaced-repetition) oder Anki für Vokabel Flash Cards
 - [Advanced Tables](obsidian://show-plugin?id=table-editor-obsidian) für leichteres Tabellen erstellen (mit |  beginnen, dann *Tab* neue Spalte)
- 
