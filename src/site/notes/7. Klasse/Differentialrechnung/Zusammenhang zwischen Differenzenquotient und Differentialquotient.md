@@ -8,3 +8,6 @@ Ich kenne den Zusammenhang zwischen Differenzenquotient und Differentialquotient
 siehe auch:
 #F605[[6. Klasse/Funktionen/Änderungsmaße\|Änderungsmaße]]
 ___
+$k= \frac{\Delta y}{\Delta x}$
+$\bar v = \frac{\Delta s}{\Delta t}$
+
