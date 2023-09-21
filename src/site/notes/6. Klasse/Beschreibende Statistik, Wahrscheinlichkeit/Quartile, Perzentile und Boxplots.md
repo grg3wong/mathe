@@ -10,3 +10,9 @@ ___
 S606 #6kl 
 geordnete Datenliste mit n Elementen
 
+min, q1, median, q3, max
+jeweils ~25% in einem Quartil
+von q1 bis q3 ~50% der Daten
+Spannweite, Interquartilsabstand
+Geogebra-Befehl: 
+> Boxplot( <yAbstand>, <ySkalierung>, <Liste von Rohdaten> )
