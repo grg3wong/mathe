@@ -10,6 +10,7 @@
   ```$x^n+x_i, \dot{x}, \hat{a}, \tilde{x}, \widehat{weit}, \bar{x}, \overline{weit}, \vec{v},\overrightarrow{AB}$```
 - Gleichungen 
   $E \underset{Einstein}{=} m \cdot c^2 \underset{Pythagoras}{=} m \cdot (a^2 + b^2)$
+    ```$E \underset{Einstein}{=} m \cdot c^2 \underset{Pythagoras}{=} m \cdot (a^2 + b^2)$```
 - Wurzeln
   $\sqrt[3]{8} = 2$
 - Brüche und Malpunkt
