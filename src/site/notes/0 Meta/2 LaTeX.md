@@ -21,7 +21,6 @@
   $\underset{x \to 0}{\lim} , \sin$
 - Summen
   $\sum_\limits{i=1}^{n} i =  \frac{n \cdot (n+1)}{2}$
-  
 - Produkte
   $q= \sqrt[n]{\prod\limits_{i=1}^{n}{x_i}}=\sqrt[n]{x_1\cdot x_2\cdot\ldots\cdot x_n}$
 - Arrays
