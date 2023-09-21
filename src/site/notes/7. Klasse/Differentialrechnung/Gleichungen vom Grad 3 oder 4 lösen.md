@@ -8,7 +8,7 @@ Ich kenne einfache Lösungsmethoden für Gleichungen vom Grad 3 oder 4 (Substitu
 siehe auch:  
 [[7. Klasse/Differentialrechnung/Gleichungen vom Grad 3 oder 4 lösen#603\|#603]] [[6. Klasse/Potenzen, Wurzeln, Logarithmen/Wurzeln und Rechenregeln\|Wurzeln und Rechenregeln]] 
 [Potenzfunktionen](https://prezi.com/mdubtx1upy3v/potenzfunktionen/)
-[[0 Meta/Formeln#Binomische Formeln\|Binomische Formeln]]
+[[0 Meta/4 Formeln#Binomische Formeln\|Binomische Formeln]]
 [[5. Klasse/Quadratische Gleichungen/5. Klasse Quadratische Gleichungen\|5. Klasse Quadratische Gleichungen]]
 	[[5. Klasse/Quadratische Gleichungen/Satzgruppe von Vieta\|Satzgruppe von Vieta]]
 ___
@@ -21,8 +21,8 @@ ___
 - ## Division durch Unbekannte 
  Wenn man eine Gleichung durch eine Unbekannte dividiert, können Lösungen verloren gehen.
  - ## Herausheben
- - siehe auch [[0 Meta/Formeln#Binomische Formeln\|Binomische Formeln]]
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/0-meta/formeln/#binom2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+ - siehe auch [[0 Meta/4 Formeln#Binomische Formeln\|Binomische Formeln]]
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/0-meta/4-formeln/#binom2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
