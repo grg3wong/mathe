@@ -82,13 +82,3 @@ $$\begin{align*}
 - Normal und parallel
 $\perp \parallel$
 ```\perp \parallel```
-
-|   |   |   |
-|---|---|---|
-|LaTeX-Code|Ergebnis|Beschreibung|
-|`\leftarrow` und `\rightarrow`|![\leftarrow \;\; \text{ und } \;\; \rightarrow](https://www.grund-wissen.de/informatik/latex/_images/math/67410e0fd05a1cabee30388d2a7e0dc091224875.png)|waagrechter Pfeil|
-|`\Leftarrow` und `\Rightarrow`|![\Leftarrow \;\; \text{ und } \;\; \Rightarrow](https://www.grund-wissen.de/informatik/latex/_images/math/2ab568ed56393de34e48f249cba7beaba6456f94.png)|waagrechter Pfeil mit Doppelstrich|
-|`\longleftarrow` und `\longrightarrow`|![\longleftarrow \text{ und } \longrightarrow](https://www.grund-wissen.de/informatik/latex/_images/math/13e291587cb1fc9322895f559f758437ab16cb32.png)|langer waagrechter Pfeil|
-|`\Longleftarrow` und `\Longrightarrow`|![\Longleftarrow \text{ und } \Longrightarrow](https://www.grund-wissen.de/informatik/latex/_images/math/c9531db71994ee8d36fb375c408ae082817eedd3.png)|langer waagrechter Pfeil mit Doppelstrich|
-|`\leftrightarrow` und `\Leftrightarrow`|![\leftrightarrow \;\; \text{ und } \;\; \Leftrightarrow](https://www.grund-wissen.de/informatik/latex/_images/math/8c20534be05b70d83f28c81466f14e17ed3c786a.png)|beidseitiger Pfeil|
-|`\longleftrightarrow` und `\Longleftrightarrow`|![\Longleftrightarrow \! \text{ und } \! \Longleftrightarrow](https://www.grund-wissen.de/informatik/latex/_images/math/7c6e2caf4a1980ac17629a01164056993e1ed9c2.png)|langer beidseitiger Pfeil|
