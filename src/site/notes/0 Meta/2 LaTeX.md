@@ -32,6 +32,24 @@
 - Produkte
   $q= \sqrt[n]{\prod\limits_{i=1}^{n}{x_i}}=\sqrt[n]{x_1\cdot x_2\cdot\ldots\cdot x_n}$
 ```$q= \sqrt[n]{\prod\limits_{i=1}^{n}{x_i}}=\sqrt[n]{x_1\cdot x_2\cdot\ldots\cdot x_n}$```
+- (Un-)Gleichheitszeichen
+  $\approx \sim \simeq \cong \equiv \stackrel{\wedge}= \neq$
+```$\approx \sim \simeq \cong \equiv \stackrel{\wedge}= \neq$```
+- Relationszeichen
+  $\lt \gt \le \ge \gg$
+```$\lt \gt \le \ge \gg $```
+- Mengen
+  $\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing \infty \Bbb{C}\Bbb{R}\Bbb{I}\Bbb{Q}\Bbb{Z}\Bbb{N}$
+```$\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing \infty \Bbb{C}\Bbb{R}\Bbb{I}\Bbb{Q}\Bbb{Z}\Bbb{N}$```
+- logische Operatoren
+ $\land \lor \lnot \forall \exists$
+```$\land \lor \lnot \forall \exists$```
+- Pfeile
+ $\to  \rightarrow \Rightarrow \gets \leftarrow  \Leftarrow \mapsto \implies \leftrightarrow \Leftrightarrow \longleftrightarrow \iff$
+```$\to  \rightarrow \Rightarrow \gets \leftarrow  \Leftarrow \mapsto \implies \leftrightarrow \Leftrightarrow\longleftrightarrow \iff$```
+- Normal und parallel
+$\perp \parallel$
+```\perp \parallel```
 - Arrays
   $$| a | = \begin{cases}
     +a     & \text{ falls } a > 0 \\
@@ -64,21 +82,3 @@ $$\begin{align*}
     \end{array}
 \end{align*}$$
 ```
-- (Un-)Gleichheitszeichen
-  $\approx \sim \simeq \cong \equiv \stackrel{\wedge}= \neq$
-```$\approx \sim \simeq \cong \equiv \stackrel{\wedge}= \neq$```
-- Relationszeichen
-  $\lt \gt \le \ge \gg$
-```$\lt \gt \le \ge \gg $```
-- Mengen
-  $\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing \infty \Bbb{C}\Bbb{R}\Bbb{I}\Bbb{Q}\Bbb{Z}\Bbb{N}$
-```$\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing \infty \Bbb{C}\Bbb{R}\Bbb{I}\Bbb{Q}\Bbb{Z}\Bbb{N}$```
-- logische Operatoren
- $\land \lor \lnot \forall \exists$
-```$\land \lor \lnot \forall \exists$```
-- Pfeile
- $\to  \rightarrow \Rightarrow \gets \leftarrow  \Leftarrow \mapsto \implies \leftrightarrow \Leftrightarrow \longleftrightarrow \iff$
-```$\to  \rightarrow \Rightarrow \gets \leftarrow  \Leftarrow \mapsto \implies \leftrightarrow \Leftrightarrow\longleftrightarrow \iff$```
-- Normal und parallel
-$\perp \parallel$
-```\perp \parallel```
