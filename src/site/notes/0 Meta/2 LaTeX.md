@@ -58,9 +58,9 @@ $$|a| = \begin{cases}
 \end{cases}$$
 ```
 $$|a| = \begin{cases}
-    +a     & \text{ falls } a > 0 \\
-    \ \ 0  & \text{ falls } a = 0 \\
-    -a     & \text{ falls } a < 0
+    +a       & \text{ falls } a > 0 \\
+    \ \ \ 0  & \text{ falls } a = 0 \\
+    -a       & \text{ falls } a < 0
 \end{cases}$$
 ```
 $$\begin{align*}
