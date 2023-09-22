@@ -18,7 +18,7 @@
 - $(a+b)^4=a^4+4a^3b+6a^2b^2+4ab^3+b^4$
 { #binom5}
 
-## Beschreibende Statistik
+### Beschreibende Statistik
 ##### Arithmetisches Mittel
 $\bar{x}=\frac{\sum_ \limits{i=1}^{n} x_i}{n}$
 ##### Geometrisches Mottel
@@ -57,27 +57,27 @@ $f'(x)=0$ mit $f(x) = c$ mit $c \in \Bbb R$
 ##### Ableitung mit additiver Konstante
 $(f(x) + c)’   = f’(x)$
 ##### Ableitung mit multiplikativer Konstante
-$f'(x)=c \cdot f'(x)$ mit $f(x) = c \cdot x^n$
-##### Ableitung von Polynomen
+$f'(x)=c \cdot f'(x)$ mit $f(x) = c \cdot f(x)$
+##### Ableitung eines Polynoms
 $f'(x) = g'(x)+h'(x)$ mit $f(x)=g(x)+h(x)$
-##### Ableitung von Potenzfunktion mit Faktor
-$f'(x)=c \cdot g'(x)$ mit $f(x)=c \cdot g(x)$
-##### Ableitung von rationaler Funktion
+##### Ableitung einer rationalen Funktion
 $f'(x)=\frac{-1}{x^2}$ mit $f(x)=\frac{1}{x}$
 ##### Ableitung der Quadratwurzel
 $f'(x)=\frac{1}{2 \cdot \sqrt x}$ mit $f(x)=\sqrt x$
+##### Ableitung einer Potenzfunktion
+$f'(x)=n \cdot x^{n-1}$ mit $f(x)=x^n$
+##### Ableitung einer Exponentialfunktion
+$f'(x)=ln(a) \cdot a^x$ mit $f(x)=a^x$
+##### Ableitung einer Logarithmusfunktion
+$f'(x)=\frac{1}{x}$ mit $f(x)=ln(x)$
+$f'(x)=\frac{1}{ln(a)} \cdot \frac{1}{x}$
+##### Ableitung einer Winkelfunktionen
+$sin'(x)=cos(x)$
+$cos'(x)=-sin(x)$
+$tan'(x)=\frac{1}{cos^2(x)}=1+tan^2(x)$
 ##### Produktregel 
 $f'(x)=u' \cdot v+u \cdot v'$ mit $f(x)=u \cdot v$
 ##### Quotientenregel 
 $f'(x)=\frac{u' \cdot v-u \cdot v'}{v^2}$ mit $f(x)=\frac{u}{v}$
 ##### Kettenregel
 $f'(x)=g'(h(x)) \cdot h'(x)$ mit $f(x)=g(h(x))$
-##### Exponentialfunktion
-$f'(x)=ln(a) \cdot a^x$ mit $f(x)=a^x$
-##### Logarithmusfunktion
-$f'(x)=\frac{1}{x}$ mit $f(x)=ln(x)$
-$f'(x)=\frac{1}{ln(a)} \cdot \frac{1}{x}$
-##### Winkelfunktionen
-$sin'(x)=cos(x)$
-$cos'(x)=-sin(x)$
-$tan'(x)=\frac{1}{cos^2(x)}=1+tan^2(x)$
