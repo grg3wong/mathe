@@ -4,7 +4,7 @@
 
 [Wikipedia: Liste mathematischer Symbole](https://de.wikipedia.org/wiki/Liste_mathematischer_Symbole)
 [MathJax: LaTeX Basic Tutorial](https://www.mathelounge.de/509545/mathjax-latex-basic-tutorial-und-referenz-deutsch)
-
+[[3 Sonderzeichen.canvas|Sonderzeichen]]-Suche auf https://it-at-m.github.io/KiwiDemo/#/
 - hoch und tief
   $a^b+c_d, \dot{e}, \hat{f}, \tilde{g}, \widehat{hij}, \bar{k}, \overline{lmn}, \vec{o}, \overrightarrow{vw}$
   ```$a^b+c_d, \dot{e}, \hat{f}, \tilde{g}, \widehat{hij}, \bar{k}, \overline{lmn}, \vec{o}, \overrightarrow{vw}$```
@@ -23,6 +23,11 @@
 - manuelle Klammer
   $\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$
 ```$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$```
+- Vektoren als Array oder Matrix
+  $\vec{v} = \left(\begin{array}{c} -4 \\ 3 \end{array}\right)$
+  $\begin{pmatrix} x_1  \\ y_1 \\ z_1 \end{pmatrix} \times \begin{pmatrix} x_2  \\ y_2 \\ z_2 \end{pmatrix}$
+  ```$\vec{v} = \left(\begin{array}{c} -4 \\ 3 \end{array}\right)$```
+  ```$\begin{pmatrix} x_1  \\ y_1 \\ z_1 \end{pmatrix} \times \begin{pmatrix} x_2  \\ y_2 \\ z_2 \end{pmatrix}$```
 - Spezielle Funktionen, mit nicht kursivem Namen
   $\underset{x \to 0}{\lim} , \sin$
 ```$\underset{x \to 0}{\lim} , \sin$```
@@ -45,9 +50,9 @@
  $\land \lor \lnot \forall \exists$
 ```$\land \lor \lnot \forall \exists$```
 - Pfeile
- $\to  \rightarrow \Rightarrow \gets \leftarrow  \Leftarrow \mapsto \implies \leftrightarrow \Leftrightarrow \longleftrightarrow \iff$
-```$\to  \rightarrow \Rightarrow \gets \leftarrow  \Leftarrow \mapsto \implies \leftrightarrow \Leftrightarrow\longleftrightarrow \iff$```
-- Normal und parallel
+ $\to  \rightarrow \Rightarrow \mapsto \implies \gets \leftarrow  \Leftarrow \  \leftrightarrow \Leftrightarrow\longleftrightarrow \iff$
+```$\to  \rightarrow \Rightarrow \mapsto \implies \gets \leftarrow \Leftarrow   \leftrightarrow \Leftrightarrow\longleftrightarrow \iff$```
+- Normal/orthogonal und parallel
 $\perp \parallel$
 ```\perp \parallel```
 - Arrays
