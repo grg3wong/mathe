@@ -8,3 +8,4 @@ Ich kann von der Parameterdarstellung in die Normalform wechseln und umgekehrt.
 siehe auch:
 ___
 
+Gleichsetzen, Gleichungssystem, Parameter in Gleichung einsetzen
