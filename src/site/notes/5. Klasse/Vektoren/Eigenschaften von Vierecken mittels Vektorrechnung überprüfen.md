@@ -7,3 +7,4 @@ Ich kann die Eigenschaften von Vierecken mittels Vektorrechnung überprüfen und
 
 siehe auch:
 ___
+Betrag, Skalarprodukt für rechten Winkel
