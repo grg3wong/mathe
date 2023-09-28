@@ -21,3 +21,7 @@ Wieviel % der Schüler/innen fahren mit den Öffis bzw. Rad?
 Wieviel % der Schüler/innen sind Jungs bzw. Mädchen?
 
 **
+
+Trenngerade
+https://workshops.cammp.online/ Bildklassifizierung
+https://de.wikipedia.org/wiki/Grauwert 
