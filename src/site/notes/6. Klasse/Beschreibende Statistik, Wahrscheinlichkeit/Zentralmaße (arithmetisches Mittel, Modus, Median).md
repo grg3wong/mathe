@@ -32,7 +32,6 @@ aus $\bar{x}$ und n kann auf die Summe der Daten geschlossen werden
 ##### Arithmetisches Mittel
 $\bar{x}=\frac{\sum_ \limits{i=1}^{n} x_i}{n}$
 
-
 </div></div>
 
 
