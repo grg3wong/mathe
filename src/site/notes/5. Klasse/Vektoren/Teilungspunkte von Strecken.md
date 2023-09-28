@@ -7,3 +7,4 @@ Ich kann mit Teilungspunkten von Strecken umgehen.
 
 siehe auch:
 ___
+Mittelpunkt $M=\frac{1}{2}(A+B)$
