@@ -7,4 +7,6 @@ Ich kann die Rechenoperationen Addition, Subtraktion und Multiplikation mit eine
 
 siehe auch:
 ___
-
+Summe und Differenz zweier Vektoren ergibt Vektor: Parallelogrammregel
+Multiplikation mit einem Skalar ergibt Vektor
+Skalarprodukt ergibt eine Zahl: Produkt der x-Koordinaten plus Produkt der y-Koordinaten
