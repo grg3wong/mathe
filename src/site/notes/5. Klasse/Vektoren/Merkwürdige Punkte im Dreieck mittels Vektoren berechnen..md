@@ -7,4 +7,7 @@ Ich kann Schwerpunkt, Höhenschnittpunkt,Umkreismittelpunkt und Inkreismittelpun
 
 siehe auch:
 ___
-
+- Umkreismittelpunkt: Schnittpunkt der Seitensymmetralen
+	- Betrag von Vektor zu Eckpunkt
+- Inkreismittelpunkt: Schnittpunkt der Winkelsymmetralen
+- Schwerpunkt: Schnittpunkt der Schwerlinien $S= \frac{1}{3} \cdot (A+B+C)$
