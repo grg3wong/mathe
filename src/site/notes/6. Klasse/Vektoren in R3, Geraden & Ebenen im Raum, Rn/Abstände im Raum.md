@@ -6,6 +6,6 @@
 Ich kann Abstände im Raum ermitteln.
 
 siehe auch:
-#G520[[5. Klasse/Vektoren/Abstand Punkt-Gerade\|Abstand Punkt-Gerade]]
+#G520[[Abstand Punkt-Gerade\|Abstand Punkt-Gerade]]
 ___
 
