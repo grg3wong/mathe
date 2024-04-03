@@ -6,7 +6,7 @@
 Ich kann Aufgaben mit mehrdimensionalen Vektoren lösen.
 
 siehe auch:
-#G511 [[5. Klasse/Vektoren/Vektoren als Zahlentupel\|Vektoren als Zahlentupel]]
+#G511 [[Vektoren als Zahlentupel\|Vektoren als Zahlentupel]]
 #G631 [[6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/Vektoren mit n-dimensionalen Koordinaten\|Vektoren mit n-dimensionalen Koordinaten]]
 ___
 
