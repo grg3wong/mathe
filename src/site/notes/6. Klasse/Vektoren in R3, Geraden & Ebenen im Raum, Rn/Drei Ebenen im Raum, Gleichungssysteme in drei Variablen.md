@@ -8,3 +8,4 @@ Ich kann die gegenseitige Lage von drei Ebenen im Raum ermitteln, lineare Gleich
 siehe auch:
 ___
 
+![Pasted image 20231019170255.png](/img/user/0%20Meta/Bilder/Pasted%20image%2020231019170255.png)
