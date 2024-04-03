@@ -6,8 +6,8 @@
 Ich kenne Verallgemeinerungen von reellen Funktionen (allgemeiner Funktionsbegriff).
 
 siehe auch:
-#F507 [[5. Klasse/Funktionen/Funktion definieren\|Funktion definieren]]
-#F510 [[5. Klasse/Funktionen/Definitionsmenge und Wertemenge einer Funktion\|Definitionsmenge und Wertemenge einer Funktion]]
+#F507 [[Funktion definieren\|Funktion definieren]]
+#F510 [[Definitionsmenge und Wertemenge einer Funktion\|Definitionsmenge und Wertemenge einer Funktion]]
 
 ___
 
