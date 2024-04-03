@@ -3,7 +3,7 @@
 ---
 
 #F644 #F6 #6kl
-Ich kenne geometrische Folgen und kann diese als Exponentialfunktion über ℕ bzw. N∗ auffassen und weiß über deren Konvergenz Bescheid.
+Ich kenne geometrische Folgen und kann diese als Exponentialfunktion über ℕ bzw. ℕ∗ auffassen und weiß über deren Konvergenz Bescheid.
 
 siehe auch:
 ___
