@@ -25,9 +25,9 @@
 ```$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$```
 - Vektoren als Array oder Matrix
   $\vec{v} = \left(\begin{array}{c} -4 \\ 3 \end{array}\right)$
-  $\begin{pmatrix} x_1  \\ y_1 \\ z_1 \end{pmatrix} \times \begin{pmatrix} x_2  \\ y_2 \\ z_2 \end{pmatrix}$
+  $\begin{pmatrix} x_1  \\ y_1 \\ z_1 \end{pmatrix} \times \begin{pmatrix} x_2  \\ y_2 \\ z_2 \end{pmatrix} \otimes$
   ```$\vec{v} = \left(\begin{array}{c} -4 \\ 3 \end{array}\right)$```
-  ```$\begin{pmatrix} x_1  \\ y_1 \\ z_1 \end{pmatrix} \times \begin{pmatrix} x_2  \\ y_2 \\ z_2 \end{pmatrix}$```
+  ```$\begin{pmatrix} x_1  \\ y_1 \\ z_1 \end{pmatrix} \times \begin{pmatrix} x_2  \\ y_2 \\ z_2 \end{pmatrix} \otimes$```
 - Spezielle Funktionen, mit nicht kursivem Namen
   $\underset{x \to 0}{\lim} , \sin$
 ```$\underset{x \to 0}{\lim} , \sin$```
