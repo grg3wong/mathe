@@ -3,7 +3,7 @@
 ---
 
 #S613 #S6 #6kl
-Ich kenne bedingte Wahrscheinlichkeiten, kann diese interpretieren und entscheiden, ob Ereignisse von einander unabhängig sind oder nicht.
+Ich kenne bedingte Wahrscheinlichkeiten, kann diese interpretieren und entscheiden, ob Ereignisse voneinander unabhängig sind oder nicht.
 
 siehe auch:
 ___
