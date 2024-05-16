@@ -10,4 +10,4 @@ siehe auch:
 #F510 [[Definitionsmenge und Wertemenge einer Funktion\|Definitionsmenge und Wertemenge einer Funktion]]
 
 ___
-
+Eine Funktion ist eine eindeutige Zuordnung, wobei jedem x-Wert aus der Definitionswert genau ein y-Wert aus der Wertemenge zugeordnet wird.
