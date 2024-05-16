@@ -8,3 +8,5 @@ Ich kann Parameterdarstellungen von Ebenen im Raum angeben.
 siehe auch:
 ___
 G612 #6kl 
+![Pasted image 20231019170032.png](/img/user/0%20Meta/Bilder/Pasted%20image%2020231019170032.png)
+![Pasted image 20231019170105.png](/img/user/0%20Meta/Bilder/Pasted%20image%2020231019170105.png)
