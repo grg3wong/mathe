@@ -6,6 +6,6 @@
 Ich kenne Vektoren mit n-dimensionalen Koordinaten und kann diese anwenden.
 
 siehe auch:
-#G511[[5. Klasse/Vektoren/Vektoren als Zahlentupel\|Vektoren als Zahlentupel]]
+#G511[[Vektoren als Zahlentupel\|Vektoren als Zahlentupel]]
 ___
 
