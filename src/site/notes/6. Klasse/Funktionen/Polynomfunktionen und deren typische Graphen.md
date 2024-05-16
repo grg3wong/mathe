@@ -14,4 +14,10 @@ siehe auch:
 #F503[[Lösungen von quadratische Gleichungen (geometrisch)\|Lösungen von quadratische Gleichungen (geometrisch)]]
 #F506 [[Quadratische Modelle\|Quadratische Modelle]]
 ___
-
+* Polynomfunktion vom Grad n $f(x) = a_{n} \cdot x^n+\dots.$
+* Grad 0 ist Gerade parallel zur x-Achse
+* Grad 1 ist lineare Funktioen
+* Grad 2 ist Parabel
+* nur gerade Grade, dann symmetrisch bez. y-Achse
+* nur ungerade Grade, dann punktsymmetrisch bez (0,0)
+Grad des Polynoms bestimmt die maximale Anzahl der Nullstellen.
