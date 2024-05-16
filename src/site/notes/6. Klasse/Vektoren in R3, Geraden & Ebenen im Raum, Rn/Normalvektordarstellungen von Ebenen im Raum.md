@@ -13,3 +13,4 @@ $\varepsilon: X= \left(\begin{array}{c} -2 \\ 4 \\ -3 \end{array}\right) + t \cd
 $\vec{n} = \left(\begin{array}{c} 10 \\ 1 \\ -24 \end{array}\right)$
 $\varepsilon: 10x+1y-24z=10 \cdot (-2)+ 1 \cdot 4-24 \cdot (-3)=108$
 $\varepsilon: 10x+y-24z=108$
+![Pasted image 20231019170133.png](/img/user/0%20Meta/Bilder/Pasted%20image%2020231019170133.png)
