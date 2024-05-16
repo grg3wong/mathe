@@ -6,8 +6,8 @@
 Ich kann mit komplexen Zahlen Gleichungen lösen.
 
 siehe auch
-#V507 [[5. Klasse/Quadratische Gleichungen/Lösungsformel für quadratische Gleichungen\|Lösungsformel für quadratische Gleichungen]]
-#V506 [[5. Klasse/Quadratische Gleichungen/Lösungsfälle von quadratischen Gleichungen\|Lösungsfälle von quadratischen Gleichungen]]
-#V509 [[5. Klasse/Quadratische Gleichungen/quadratische Gleichungen mit Parametern\|quadratische Gleichungen mit Parametern]]
+#V507 [[Lösungsformel für quadratische Gleichungen\|Lösungsformel für quadratische Gleichungen]]
+#V506 [[Lösungsfälle von quadratischen Gleichungen\|Lösungsfälle von quadratischen Gleichungen]]
+#V509 [[quadratische Gleichungen mit Parametern\|quadratische Gleichungen mit Parametern]]
 ___
 
