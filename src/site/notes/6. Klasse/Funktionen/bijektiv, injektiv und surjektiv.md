@@ -7,4 +7,10 @@ Ich kann mit den Begriffen bijektiv, injektiv & surjektiv umgehen.
 
 siehe auch:
 ___
-F635 #6kl 
+* injektiv
+  jeder Funktionswert kommt max einmal vor
+* surjektiv
+  jeder Funktionswert kommt min einmal vor
+* bijektiv
+  jeder Funktionswert kommt genau einmal vor
+  Umkehrfunktion existiert
