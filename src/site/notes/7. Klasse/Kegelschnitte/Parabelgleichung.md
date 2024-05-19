@@ -6,6 +6,6 @@
 Ich kann Parabeln durch Gleichungen beschreiben.
 
 siehe auch:
-#V505[[Nullstellen und Scheitel von Parabeln graphisch\|Nullstellen und Scheitel von Parabeln graphisch]]
-#V503 [[Skizzen und Graphen Funktionen\|Skizzen und Graphen Funktionen]]
+#V505[[5. Klasse/5. Klasse/Quadratische Gleichungen/Nullstellen und Scheitel von Parabeln graphisch\|Nullstellen und Scheitel von Parabeln graphisch]]
+#V503 [[5. Klasse/5. Klasse/Quadratische Gleichungen/Skizzen und Graphen Funktionen\|Skizzen und Graphen Funktionen]]
 ___
