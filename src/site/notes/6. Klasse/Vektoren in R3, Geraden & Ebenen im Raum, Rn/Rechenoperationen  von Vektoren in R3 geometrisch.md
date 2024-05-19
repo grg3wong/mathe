@@ -5,7 +5,7 @@
 #G602 #G6 #6kl
 Ich kann Vektoren in ℝ³ und deren Rechenoperationen geometrisch deuten.
 
-siehe auch: [[Rechenoperationen bei Vektoren\|Rechenoperationen bei Vektoren]]
+siehe auch: [[5. Klasse/5. Klasse/Vektoren/Rechenoperationen bei Vektoren\|Rechenoperationen bei Vektoren]]
 ___
 
 Vektoren im ℝ³ haben im Vgl. zu ℝ² nun 3 Dimensionen, als [[Linearkombination\|Linearkombination]] von Basisvektoren
