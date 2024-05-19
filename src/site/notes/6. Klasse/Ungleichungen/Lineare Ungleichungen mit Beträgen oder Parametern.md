@@ -7,5 +7,5 @@ Ich kann lineare Ungleichungen mit Beträgen oder Parametern lösen.
 
 siehe auch:
 [[6. Klasse/Ungleichungen/Rechenregeln für Ungleichungen\|Rechenregeln für Ungleichungen]]
-[[Parameteränderungen in Funktionen\|Parameteränderungen in Funktionen]]
+[[5. Klasse/5. Klasse/Quadratische Gleichungen/Parameteränderungen in Funktionen\|Parameteränderungen in Funktionen]]
 ___
