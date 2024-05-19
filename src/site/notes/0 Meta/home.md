@@ -4,11 +4,11 @@
 
 
 * 5. Klasse #5kl
-	* [[5. Klasse Aussagen, Zahlensysteme\|5. Klasse Aussagen, Zahlensysteme]]
-	* [[5. Klasse Funktionen\|5. Klasse Funktionen]]
-	* [[5. Klasse Quadratische Gleichungen\|5. Klasse Quadratische Gleichungen]]
-	* [[5. Klasse Trigonometrie, Polarkoordinaten\|5. Klasse Trigonometrie, Polarkoordinaten]]
-	* [[5. Klasse Vektoren\|5. Klasse Vektoren]]
+	* [[5. Klasse/5. Klasse/Aussagen, Zahlensysteme/5. Klasse Aussagen, Zahlensysteme\|5. Klasse Aussagen, Zahlensysteme]]
+	* [[5. Klasse/5. Klasse/Funktionen/5. Klasse Funktionen\|5. Klasse Funktionen]]
+	* [[5. Klasse/5. Klasse/Quadratische Gleichungen/5. Klasse Quadratische Gleichungen\|5. Klasse Quadratische Gleichungen]]
+	* [[5. Klasse/5. Klasse/Trigonometrie, Polarkoordinaten/5. Klasse Trigonometrie, Polarkoordinaten\|5. Klasse Trigonometrie, Polarkoordinaten]]
+	* [[5. Klasse/5. Klasse/Vektoren/5. Klasse Vektoren\|5. Klasse Vektoren]]
 * 6. Klasse #6kl
 	* [[6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/6. Klasse Bedingte Wahrscheinlichkeiten\|6. Klasse Bedingte Wahrscheinlichkeiten]]
 	* [[6. Klasse/Potenzen, Wurzeln, Logarithmen/6. Klasse Potenzen, Wurzeln, Logarithmen\|6. Klasse Potenzen, Wurzeln, Logarithmen]]
