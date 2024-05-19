@@ -6,5 +6,5 @@
 Ich kenne Funktionen in mehreren Variablen und kann in Formeln Funktionen sehen.
 
 siehe auch:
-#F505[[Funktionen aus Formeln\|Funktionen aus Formeln]]
+#F505[[5. Klasse/5. Klasse/Funktionen/Funktionen aus Formeln\|Funktionen aus Formeln]]
 ___
