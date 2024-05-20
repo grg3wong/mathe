@@ -6,7 +6,7 @@
 Ich kann das Vektorprodukt und die Normalprojektion von Vektoren in ℝ³ ermitteln und anwenden.
 
 siehe auch:
-#G512[[5. Klasse/5. Klasse/Trigonometrie, Polarkoordinaten/Definitionen der Rechenoperationen mit Vektoren\|Definitionen der Rechenoperationen mit Vektoren]]
+#G512[[5. Klasse/Trigonometrie, Polarkoordinaten/Definitionen der Rechenoperationen mit Vektoren\|Definitionen der Rechenoperationen mit Vektoren]]
 ___
 Multiplikation zweier Vektoren, die einen Vektor ergibt.
 Eigenschaften des neuen Vektors:
