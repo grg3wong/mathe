@@ -5,5 +5,5 @@
 #V508 #V5 #5kl
 Ich kann die Satzgruppe von Vieta anwenden.
 
-siehe auch: [[5. Klasse/Quadratische Gleichungen/Linearfaktoren\|Linearfaktoren]]
+siehe auch:
 ___
