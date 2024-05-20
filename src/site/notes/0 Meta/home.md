@@ -2,13 +2,18 @@
 {"dg-publish":true,"permalink":"/0 Meta/home/","tags":["gardenEntry"]}
 ---
 
+* [[0 Meta/0 Tasks\|0 Tasks]]
+* [[0 Meta/1 Obsidian und Markdown\|1 Obsidian und Markdown]]
+* [[0 Meta/2 LaTeX\|2 LaTeX]]
+* [[3 Sonderzeichen.canvas|3 Sonderzeichen]]
+* [[0 Meta/4 Formeln\|4 Formeln]]
 
 * 5. Klasse #5kl
-	* [[5. Klasse/5. Klasse/Aussagen, Zahlensysteme/5. Klasse Aussagen, Zahlensysteme\|5. Klasse Aussagen, Zahlensysteme]]
-	* [[5. Klasse/5. Klasse/Funktionen/5. Klasse Funktionen\|5. Klasse Funktionen]]
-	* [[5. Klasse/5. Klasse/Quadratische Gleichungen/5. Klasse Quadratische Gleichungen\|5. Klasse Quadratische Gleichungen]]
-	* [[5. Klasse/5. Klasse/Trigonometrie, Polarkoordinaten/5. Klasse Trigonometrie, Polarkoordinaten\|5. Klasse Trigonometrie, Polarkoordinaten]]
-	* [[5. Klasse/5. Klasse/Vektoren/5. Klasse Vektoren\|5. Klasse Vektoren]]
+	* [[5. Klasse/Aussagen, Zahlensysteme/5. Klasse Aussagen, Zahlensysteme\|5. Klasse Aussagen, Zahlensysteme]]
+	* [[5. Klasse/Funktionen/5. Klasse Funktionen\|5. Klasse Funktionen]]
+	* [[5. Klasse/Quadratische Gleichungen/5. Klasse Quadratische Gleichungen\|5. Klasse Quadratische Gleichungen]]
+	* [[5. Klasse/Trigonometrie, Polarkoordinaten/5. Klasse Trigonometrie, Polarkoordinaten\|5. Klasse Trigonometrie, Polarkoordinaten]]
+	* [[5. Klasse/Vektoren/5. Klasse Vektoren\|5. Klasse Vektoren]]
 * 6. Klasse #6kl
 	* [[6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/6. Klasse Bedingte Wahrscheinlichkeiten\|6. Klasse Bedingte Wahrscheinlichkeiten]]
 	* [[6. Klasse/Potenzen, Wurzeln, Logarithmen/6. Klasse Potenzen, Wurzeln, Logarithmen\|6. Klasse Potenzen, Wurzeln, Logarithmen]]
