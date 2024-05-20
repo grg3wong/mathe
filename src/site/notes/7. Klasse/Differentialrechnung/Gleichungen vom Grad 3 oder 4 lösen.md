@@ -9,8 +9,8 @@ siehe auch:
 [[7. Klasse/Differentialrechnung/Gleichungen vom Grad 3 oder 4 lösen#603\|#603]] [[6. Klasse/Potenzen, Wurzeln, Logarithmen/Wurzeln und Rechenregeln\|Wurzeln und Rechenregeln]] 
 [Potenzfunktionen](https://prezi.com/mdubtx1upy3v/potenzfunktionen/)
 [[0 Meta/4 Formeln#Binomische Formeln\|Binomische Formeln]]
-[[5. Klasse/5. Klasse/Quadratische Gleichungen/5. Klasse Quadratische Gleichungen\|5. Klasse Quadratische Gleichungen]]
-	[[5. Klasse/5. Klasse/Quadratische Gleichungen/Satzgruppe von Vieta\|Satzgruppe von Vieta]]
+[[5. Klasse/Quadratische Gleichungen/5. Klasse Quadratische Gleichungen\|5. Klasse Quadratische Gleichungen]]
+	[[5. Klasse/Quadratische Gleichungen/Satzgruppe von Vieta\|Satzgruppe von Vieta]]
 ___
 - ## Produkt-Null-Satz: 
 	Ein Produkt ist genau dann null, wenn mindestens einer der Faktoren null ist.
