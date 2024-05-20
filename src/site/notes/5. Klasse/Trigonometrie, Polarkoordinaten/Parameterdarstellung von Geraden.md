@@ -6,4 +6,3 @@
 
 siehe auch:
 ___
-$X=P+t \cdot \vec{v}$
