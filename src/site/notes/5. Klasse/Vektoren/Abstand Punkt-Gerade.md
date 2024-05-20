@@ -7,5 +7,3 @@ Ich kann den Abstand eines Punktes von einer Geraden berechnen.
 
 siehe auch:
 ___
-$d(P,g)= |\frac{|AP| \cdot \vec n}{| \vec n|}|$
-
