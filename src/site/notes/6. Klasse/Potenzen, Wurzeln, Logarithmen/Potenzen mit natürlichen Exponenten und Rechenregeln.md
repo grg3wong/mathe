@@ -6,7 +6,7 @@
 Ich kenne die Definition der Potenzen mit natürlichen Exponenten und dazugehörige Rechenregeln und kann diese anwenden.
 
 siehe auch:
-#F503 [[Graphen von quadratische Funktionen\|Graphen von quadratische Funktionen]]
+#F503 [[5. Klasse/Funktionen/Graphen von quadratische Funktionen\|Graphen von quadratische Funktionen]]
 
 ___
 
