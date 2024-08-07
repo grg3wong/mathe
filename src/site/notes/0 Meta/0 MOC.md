@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/0 Meta/0 MOC/","tags":["gardenEntry"]}
 ---
 
-* [[0 Tasks\|0 Tasks]]
 * [[0 Meta/1 Obsidian und Markdown\|1 Obsidian und Markdown]]
 * [[0 Meta/2 LaTeX\|2 LaTeX]]
 * [[3 Sonderzeichen.canvas|3 Sonderzeichen]]
