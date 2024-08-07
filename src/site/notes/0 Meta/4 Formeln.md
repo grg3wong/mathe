@@ -49,7 +49,12 @@ $k = \frac{s_{xy}}{s^2_x}$
 $d = \bar y - k \cdot \bar x$
 ## Differentialrechnung
 #### Differenzenquotient
-$\frac{f(x+\Delta{x})-f(x)}{\Delta{x}}$
+* $\frac{f(x+\Delta{x})-f(x)}{\Delta{x}}$^diffquot1
+* $k= \frac{\Delta y}{\Delta x}$
+{ #diffquot2}
+
+##### mittlere Geschwindigkeit
+$\bar v = \frac{\Delta s}{\Delta t}$ 
 #### Differentialquotient
 $f'(x) = \underset{\Delta{x} \rightarrow 0}\lim \frac{f(x+\Delta{x})-f(x)}{\Delta{x}} = k$
 ##### Ableitung von konstanten Funktionen
