@@ -5,9 +5,11 @@
 [Wikipedia: Liste mathematischer Symbole](https://de.wikipedia.org/wiki/Liste_mathematischer_Symbole)
 [MathJax: LaTeX Basic Tutorial](https://www.mathelounge.de/509545/mathjax-latex-basic-tutorial-und-referenz-deutsch)
 [[3 Sonderzeichen.canvas|Sonderzeichen]]-Suche auf https://it-at-m.github.io/KiwiDemo/#/
-- hoch und tief
-  $a^b+c_d, \dot{e}, \hat{f}, \tilde{g}, \widehat{hij}, \bar{k}, \overline{lmn}, \vec{o}, \overrightarrow{vw}$
-  ```$a^b+c_d, \dot{e}, \hat{f}, \tilde{g}, \widehat{hij}, \bar{k}, \overline{lmn}, \vec{o}, \overrightarrow{vw}$```
+- Über- & Unterstreichungen
+  $\underbrace {x_1 + x_2}_{7} + \cdots +  \overbrace {x_{n -1} + x_n }^{7}$
+  ```$\underbrace {x_1 + x_2}_{7} + \cdots +  \overbrace {x_{n -1} + x_n }^{7}$```
+  $a^b+c_d, \dot{e}, \hat{f}, \tilde{g}, \widehat{hij}, \bar{k}, \overline{lmn}, \vec{o}, \overrightarrow{vw}$, $10^23$ \neq 10^{23}
+  ```$a^b+c_d, \dot{e}, \hat{f}, \tilde{g}, \widehat{hij}, \bar{k}, \overline{lmn}, \vec{o}, \overrightarrow{vw}$, $10^23$ \neq 10^{23}```
 - Gleichungen 
   $E \underset{Einstein}{=} m \cdot c^2 \underset{Pythagoras}{=} m \cdot (a^2 + b^2)$
     ```$E \underset{Einstein}{=} m \cdot c^2 \underset{Pythagoras}{=} m \cdot (a^2 + b^2)$```
@@ -87,3 +89,21 @@ $$\begin{align*}
     \end{array}
 \end{align*}$$
 ```
+
+#### Abstände
+* ```$\,$```
+  kleiner Abstand 
+* ```$\:$``` 
+  mittlerer Abstand 
+* ```$\;$``` 
+  großer Abstand 
+* ```\+Leerzeichen``` 
+  Zwischenwortabstand 
+* ```$\quad$``` 
+  größerer Abstand (Breite von Buchstabe M) 
+* ```$\qquad$``` 
+  noch größerer Abstand
+
+Das Rendern von Zeichen kann man mit dem Backslash \\ verhindern:
+```\ \$ \{ \_ \backslash```
+\backslash
