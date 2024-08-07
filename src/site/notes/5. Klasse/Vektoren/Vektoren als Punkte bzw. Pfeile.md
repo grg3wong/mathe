@@ -8,6 +8,3 @@ Ich kann Vektoren geometrisch (als Punkte bzw. Pfeile) deuten und verständig ei
 siehe auch:
 ___
 
-Nullvektor = (0,0)
-Gegenvektor
-parallel = Vielfache der Vektoren
