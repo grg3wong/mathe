@@ -8,5 +8,3 @@ Ich kann Vektoren als Zahlentupel verständig einsetzen und im Kontext deuten.
 siehe auch:
 ___
 
-als Verschiebung im Raum
-Orientierung, Richtung und Länge
