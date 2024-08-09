@@ -19,7 +19,7 @@
 	* [[6. Klasse/Ungleichungen/6. Klasse Ungleichungen\|Ungleichungen]]
 	* [[6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/6. Klasse Vektoren in R3, Geraden & Ebenen im Raum, Rn\|Vektoren, Geraden, Ebenen im R3]]
 	* [[6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/6. Klasse Bedingte Wahrscheinlichkeiten\|Bedingte Wahrscheinlichkeiten]]
-* * [[0 Meta/7. Klasse\|7. Klasse]]
+* [[0 Meta/7. Klasse\|7. Klasse]]
 	* [[7. Klasse/Komplexe Zahlen/7. Klasse Komplexe Zahlen\|Komplexe Zahlen]]
 	* [[7. Klasse/Differentialrechnung/7. Klasse Differentialrechnung\|Differentialrechnung]]
 	* [[7. Klasse/Wahrscheinlichkeitsverteilungen/7. Klasse Wahrscheinlichkeitsverteilungen\|Wahrscheinlichkeitsverteilungen]]
