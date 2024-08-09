@@ -3,8 +3,8 @@
 ---
 
 * [[0 Meta/1 Obsidian\|1 Obsidian]]
-* [[0 Meta/2 LaTeX\|2 LaTeX]]
-* [[0 Meta/3 Markdown\|3 Markdown]]
+* [[0 Meta/2 Markdown\|2 Markdown]]
+* [[0 Meta/3 LaTeX\|3 LaTeX]]
 * [[0 Meta/4 Formeln\|4 Formeln]]
 * [[0 Meta/5. Klasse\|5. Klasse]]
 	* [[5. Klasse/Aussagen, Zahlensysteme/5. Klasse Aussagen, Zahlensysteme\|Aussagen, Zahlensysteme]]
