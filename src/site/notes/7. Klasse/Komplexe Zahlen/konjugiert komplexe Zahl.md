@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Komplexe Zahlen/konjugiert komplexe Zahl/"}
+{"dg-publish":true,"permalink":"/7-klasse/komplexe-zahlen/konjugiert-komplexe-zahl/","dg-note-properties":{"permalink":"/7. Klasse/Komplexe Zahlen/konjugiert komplexe Zahl/"}}
 ---
+
 
 #Z709 #Z7 #7kl
 Ich kann mit konjugiert komplexen Zahlen umgehen.

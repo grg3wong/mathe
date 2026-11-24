@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Wahrscheinlichkeitsverteilungen/Geometrische Verteilung/"}
+{"dg-publish":true,"permalink":"/7-klasse/wahrscheinlichkeitsverteilungen/geometrische-verteilung/","tags":["S/S7/S706",7],"dg-note-properties":{"tags":["S/S7/S706",7]}}
 ---
 
-#S706 #S7 #7kl
 Ich kann mit der geometrischen Verteilung umgehen.
 
 siehe auch:

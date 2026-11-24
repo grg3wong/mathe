@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/8. Klasse/Integral/Obersumme, Untersumme/"}
+{"dg-publish":true,"permalink":"/8-klasse/integral/obersumme-untersumme/","dg-note-properties":{"permalink":"/8. Klasse/Integral/Obersumme, Untersumme/"}}
 ---
+
 
 #F802 #F8 #8kl 
 Ich kenne die Begriffe der Unter- und Obersumme.

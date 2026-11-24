@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Wahrscheinlichkeitsverteilungen/Zufallsvariable, Wahrscheinlichkeitsverteilung, Erwartungswert und Standardabweichung/"}
+{"dg-publish":true,"permalink":"/7-klasse/wahrscheinlichkeitsverteilungen/zufallsvariable-wahrscheinlichkeitsverteilung-erwartungswert-und-standardabweichung/","tags":["S/S7/S702"],"dg-note-properties":{"tags":["S/S7/S702"]}}
 ---
+
 
 #S702 #S7 #7kl
 Ich kann mit den Begriffen Zufallsvariable, (Wahrscheinlichkeits-)Verteilung, Erwartungswert und Standardabweichung umgehen.

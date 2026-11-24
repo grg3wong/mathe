@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Komplexe Zahlen/Komplexe Zahlen als Zahlenpaare/"}
+{"dg-publish":true,"permalink":"/7-klasse/komplexe-zahlen/komplexe-zahlen-als-zahlenpaare/","tags":["Z/Z7/Z706",7],"dg-note-properties":{"tags":["Z/Z7/Z706",7]}}
 ---
 
-#Z706 #Z7 #7kl
 Ich kann komplexe Zahlen als Zahlenpaare mit bestimmten Rechenoperationen auffassen.
 
 siehe auch:

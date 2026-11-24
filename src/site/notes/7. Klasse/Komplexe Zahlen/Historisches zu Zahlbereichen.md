@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Komplexe Zahlen/Historisches zu Zahlbereichen/"}
+{"dg-publish":true,"permalink":"/7-klasse/komplexe-zahlen/historisches-zu-zahlbereichen/","tags":["Z/Z7/Z708",7],"dg-note-properties":{"tags":["Z/Z7/Z708",7]}}
 ---
 
-#Z708 #Z7 #7kl
 Ich weiß Historisches zu den Zahlbereichen.
 
 siehe auch:

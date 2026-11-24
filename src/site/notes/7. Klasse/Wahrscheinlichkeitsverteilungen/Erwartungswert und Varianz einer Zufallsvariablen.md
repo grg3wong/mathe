@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Wahrscheinlichkeitsverteilungen/Erwartungswert und Varianz einer Zufallsvariablen/"}
+{"dg-publish":true,"permalink":"/7-klasse/wahrscheinlichkeitsverteilungen/erwartungswert-und-varianz-einer-zufallsvariablen/","tags":["S/S7/S703",7],"dg-note-properties":{"tags":["S/S7/S703",7]}}
 ---
 
-#S703 #S7 #7kl
 Ich kann den Erwartungswert und die Varianz einer Zufallsvariablen berechnen.
 
-siehe auch:
+siehe auch::
 ___
 
