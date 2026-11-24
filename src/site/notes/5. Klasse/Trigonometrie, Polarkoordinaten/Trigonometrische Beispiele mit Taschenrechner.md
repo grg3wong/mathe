@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Trigonometrie, Polarkoordinaten/Trigonometrische Beispiele mit Taschenrechner/"}
+{"dg-publish":true,"permalink":"/5-klasse/trigonometrie-polarkoordinaten/trigonometrische-beispiele-mit-taschenrechner/","dg-note-properties":{}}
 ---
 
-#G510 #G5 #5kl
+#G/G5/G510 #5
 Ich kann mit Hilfe des Taschenrechners trigonometrische Beispiele lösen.
 
 siehe auch:

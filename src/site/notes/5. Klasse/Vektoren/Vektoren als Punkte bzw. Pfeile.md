@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Vektoren/Vektoren als Punkte bzw. Pfeile/"}
+{"dg-publish":true,"permalink":"/5-klasse/vektoren/vektoren-als-punkte-bzw-pfeile/","dg-note-properties":{}}
 ---
 
-#G514 #G5 #5kl
+#G/G5/G514 #G/G5 #5
 Ich kann Vektoren geometrisch (als Punkte bzw. Pfeile) deuten und verständig einsetzen.
 
 siehe auch:

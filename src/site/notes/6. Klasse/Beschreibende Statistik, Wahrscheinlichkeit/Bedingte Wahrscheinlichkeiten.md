@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/Bedingte Wahrscheinlichkeiten/"}
+{"dg-publish":true,"permalink":"/6-klasse/beschreibende-statistik-wahrscheinlichkeit/bedingte-wahrscheinlichkeiten/","tags":["S/S6/S613",6],"dg-note-properties":{"tags":["S/S6/S613",6]}}
 ---
 
-#S613 #S6 #6kl
 Ich kenne bedingte Wahrscheinlichkeiten, kann diese interpretieren und entscheiden, ob Ereignisse voneinander unabhängig sind oder nicht.
 
 siehe auch:

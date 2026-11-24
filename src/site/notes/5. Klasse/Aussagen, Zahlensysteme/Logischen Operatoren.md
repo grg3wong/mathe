@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/Logischen Operatoren/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/logischen-operatoren/","dg-note-properties":{}}
 ---
 
-#Z507 #Z5 #5kl
+#Z/Z5/Z507 #5
 Ich kann mit logischen Operatoren (¬ ∧ ∨ ⇒ ⇔ ∀ ∃) umgehen.
 
 siehe auch:

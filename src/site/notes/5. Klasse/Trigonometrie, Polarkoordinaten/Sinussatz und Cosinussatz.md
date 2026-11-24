@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Trigonometrie, Polarkoordinaten/Sinussatz und Cosinussatz/"}
+{"dg-publish":true,"permalink":"/5-klasse/trigonometrie-polarkoordinaten/sinussatz-und-cosinussatz/","dg-note-properties":{}}
 ---
 
-#G505 #G5 #5kl
+#G/G5/G505 #5
 Ich kann den Sinussatz und Cosinussatz anwenden.
 
 siehe auch:

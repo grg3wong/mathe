@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Vektoren/Teilungspunkte von Strecken/"}
+{"dg-publish":true,"permalink":"/5-klasse/vektoren/teilungspunkte-von-strecken/","dg-note-properties":{}}
 ---
 
-#G516 #G5 #5kl
+#G/G5/G516 #G/G5 #5
 Ich kann mit Teilungspunkten von Strecken umgehen.
 
 siehe auch:

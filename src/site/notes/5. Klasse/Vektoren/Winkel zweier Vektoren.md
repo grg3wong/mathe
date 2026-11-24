@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Vektoren/Winkel zweier Vektoren/"}
+{"dg-publish":true,"permalink":"/5-klasse/vektoren/winkel-zweier-vektoren/","dg-note-properties":{}}
 ---
 
-#G518 #G5 #5kl
+#G/G5/G518 #G/G5 #5
 Ich kann den Winkel zweier Vektoren bestimmen.
 
 siehe auch:

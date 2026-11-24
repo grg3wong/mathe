@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/vom 16er-System ins 10er-System/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/vom-16er-system-ins-10er-system/","dg-note-properties":{}}
 ---
 
-#Z517 #Z5 #5kl
+#Z/Z5/Z517 #5
 Ich kann Zahlen vom 16er-System ins 10er-System umwandeln.
 
 siehe auch:

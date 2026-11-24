@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/Baumdiagramme/"}
+{"dg-publish":true,"permalink":"/6-klasse/beschreibende-statistik-wahrscheinlichkeit/baumdiagramme/","tags":["S/S6/S614",6],"dg-note-properties":{"tags":["S/S6/S614",6]}}
 ---
 
-#S614 #S6 #6kl
 Ich kann mehrstufige Zufallsversuche durch Baumdiagramme veranschaulichen.
 
 siehe auch:

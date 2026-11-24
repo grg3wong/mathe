@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 Meta/4 Formeln/"}
+{"dg-publish":true,"permalink":"/0-meta/4-formeln/","dg-note-properties":{}}
 ---
 
 ### Binomische Formeln

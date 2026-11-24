@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/Variable und Datenlisten/"}
+{"dg-publish":true,"permalink":"/6-klasse/beschreibende-statistik-wahrscheinlichkeit/variable-und-datenlisten/","tags":["S/S6/S601",6],"dg-note-properties":{"tags":["S/S6/S601",6]}}
 ---
 
-#S601 #S6 #6kl [bit.ly/beschreibendestatistik](bit.ly/beschreibendestatistik)
+[bit.ly/beschreibendestatistik](bit.ly/beschreibendestatistik)
 Ich kenne Variable (Merkmale) und Datenlisten (Urliste, geordnete Liste).
 
 siehe auch: [[6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/Zentralmaße (arithmetisches Mittel, Modus, Median)\|Zentralmaße (arithmetisches Mittel, Modus, Median)]]

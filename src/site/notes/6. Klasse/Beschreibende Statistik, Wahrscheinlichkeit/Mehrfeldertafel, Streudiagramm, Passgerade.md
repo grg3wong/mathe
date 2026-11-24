@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/Mehrfeldertafel, Streudiagramm, Passgerade/"}
+{"dg-publish":true,"permalink":"/6-klasse/beschreibende-statistik-wahrscheinlichkeit/mehrfeldertafel-streudiagramm-passgerade/","dg-note-properties":{"permalink":"/6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/Mehrfeldertafel, Streudiagramm, Passgerade/"}}
 ---
+
 
 #S608 #S6 #6kl Kontingenztafel
 Ich kann Merkmale (Mehrfeldertafel, Streudiagramm, Passgerade) vergleichen.

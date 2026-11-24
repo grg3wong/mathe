@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/Zentralmaße (arithmetisches Mittel, Modus, Median)/"}
+{"dg-publish":true,"permalink":"/6-klasse/beschreibende-statistik-wahrscheinlichkeit/zentralmasse-arithmetisches-mittel-modus-median/","tags":["S/S6/S603",6],"dg-note-properties":{"tags":["S/S6/S603",6]}}
 ---
 
-#S603 #S6 #6kl
 Ich kenne Zentralmaße (arithmetisches Mittel, Modus, Median) und deren wichtigen Eigenschaften.
 
 siehe auch:

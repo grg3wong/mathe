@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Funktionen/von k & d  zu Funktionsgleichungen/"}
+{"dg-publish":true,"permalink":"/5-klasse/funktionen/von-k-and-d-zu-funktionsgleichungen/","tags":["F/F5/F515",5],"dg-note-properties":{"tags":["F/F5/F515",5]}}
 ---
 
-#F515 #F5 #5kl
 Ich kann mit k & d Funktionsgleichungen von linearen von Funktionen angeben.
 
 siehe auch:

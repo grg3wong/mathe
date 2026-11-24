@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Vektoren/Flächenformeln mit Vektoren/"}
+{"dg-publish":true,"permalink":"/5-klasse/vektoren/flaechenformeln-mit-vektoren/","dg-note-properties":{}}
 ---
 
-#G519 #G5 #5kl
+#G/G5/G519 #G/G5 #5
 Ich kann die Flächenformeln mit Vektoren anwenden.
 
 siehe auch:

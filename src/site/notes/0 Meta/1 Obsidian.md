@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 Meta/1 Obsidian/"}
+{"dg-publish":true,"permalink":"/0-meta/1-obsidian/","dg-note-properties":{}}
 ---
 
 für persönliches Wissensmanagement, digitales Notizbuch, tägliches Aufgabenmanagement,...

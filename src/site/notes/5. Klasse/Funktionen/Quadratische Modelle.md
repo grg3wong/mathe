@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Funktionen/Quadratische Modelle/"}
+{"dg-publish":true,"permalink":"/5-klasse/funktionen/quadratische-modelle/","dg-note-properties":{}}
 ---
 
-#F506 #F5 #5kl
+#F/F5/F506 #F/F5 #5
 Ich kann Funktionen als mathematische Modelle auffassen, insbesondere die Angemessenheit quadratischer Modelle bewerten.
 
 siehe auch:

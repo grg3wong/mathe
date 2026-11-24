@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Funktionen/k & d ablesen/"}
+{"dg-publish":true,"permalink":"/5-klasse/funktionen/k-and-d-ablesen/","dg-note-properties":{}}
 ---
 
-#F513 #F5 #5kl
+#F/F5/F513 #F/F5 #5
 Ich kann k & d bei linearen Funktionen ablesen.
 
 siehe auch:

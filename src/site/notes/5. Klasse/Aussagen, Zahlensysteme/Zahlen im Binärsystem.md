@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/Zahlen im Binärsystem/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/zahlen-im-binaersystem/","dg-note-properties":{}}
 ---
 
-#Z512 #Z5 #5kl
+#Z/Z5/Z512 #5
 Ich kann mit Zahlen im Binärsystem umgehen.
 
 siehe auch:

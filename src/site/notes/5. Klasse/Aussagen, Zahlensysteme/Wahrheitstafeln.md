@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/Wahrheitstafeln/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/wahrheitstafeln/","dg-note-properties":{}}
 ---
 
-#Z508 #Z5 #5kl
+#Z/Z5/Z508  #5
 Ich kann mit Wahrheitstafeln umgehen.
 
 siehe auch:

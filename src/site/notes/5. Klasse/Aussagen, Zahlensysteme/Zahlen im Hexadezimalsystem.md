@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/Zahlen im Hexadezimalsystem/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/zahlen-im-hexadezimalsystem/","dg-note-properties":{}}
 ---
 
-#Z513 #Z5 #5kl
+#Z/Z5/Z513 #5
 Ich kann mit Zahlen im Hexadezimalsystem umgehen.
 
 siehe auch:

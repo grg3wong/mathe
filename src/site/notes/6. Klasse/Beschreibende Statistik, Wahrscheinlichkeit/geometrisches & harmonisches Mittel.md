@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/geometrisches & harmonisches Mittel/"}
+{"dg-publish":true,"permalink":"/6-klasse/beschreibende-statistik-wahrscheinlichkeit/geometrisches-and-harmonisches-mittel/","tags":["S/S6/S607",6],"dg-note-properties":{"tags":["S/S6/S607",6]}}
 ---
 
-#S607 #S6 #6kl
 Ich kenne die Begriffe geometrisches & harmonisches Mittel und kann diese bestimmen.
 
 siehe auch:

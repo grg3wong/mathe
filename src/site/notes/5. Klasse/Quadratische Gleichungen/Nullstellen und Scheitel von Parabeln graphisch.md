@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Quadratische Gleichungen/Nullstellen und Scheitel von Parabeln graphisch/"}
+{"dg-publish":true,"permalink":"/5-klasse/quadratische-gleichungen/nullstellen-und-scheitel-von-parabeln-graphisch/","dg-note-properties":{}}
 ---
 
-#V505 #V5 #5kl
+#V/V5/V505 #V/V5 #5
 Ich kann Nullstellen und Scheitel von Parabeln graphisch finden.
 
 siehe auch:

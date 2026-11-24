@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/Gleitkommadarstellung/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/gleitkommadarstellung/","dg-note-properties":{}}
 ---
 
-#Z504 #Z5 #5kl
+#Z/Z5/Z504 #5
 Ich kann Zahlen in die Gleitkommadarstellung bringen.
 
 siehe auch:

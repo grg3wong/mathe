@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Trigonometrie, Polarkoordinaten/Definition von Sinus, Cosinus & Tangens/"}
+{"dg-publish":true,"permalink":"/5-klasse/trigonometrie-polarkoordinaten/definition-von-sinus-cosinus-and-tangens/","dg-note-properties":{}}
 ---
 
-#G501 #G5 #5kl
+#G/G5/G501 #5
 Ich kann Sinus, Cosinus & Tangens im rechtwinkligen Dreieck definieren.
 
 siehe auch:

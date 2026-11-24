@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/Zufallsversuch und Versuchsausgang/"}
+{"dg-publish":true,"permalink":"/6-klasse/beschreibende-statistik-wahrscheinlichkeit/zufallsversuch-und-versuchsausgang/","tags":["S/S6/S611",6],"dg-note-properties":{"tags":["S/S6/S611",6]}}
 ---
 
-#S611 #S6 #6kl
 Ich kenne die Begriffe Zufallsversuch und Versuchsausgang und kann diese erläutern.
 
 siehe auch:
 ___
-S611 #6kl 
+S611 #6 

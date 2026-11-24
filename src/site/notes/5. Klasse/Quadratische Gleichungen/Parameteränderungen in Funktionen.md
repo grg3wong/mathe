@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Quadratische Gleichungen/Parameteränderungen in Funktionen/"}
+{"dg-publish":true,"permalink":"/5-klasse/quadratische-gleichungen/parameteraenderungen-in-funktionen/","dg-note-properties":{}}
 ---
 
-#V504 #V5 #5kl
+#V/V5/V504 #V/V5 #5
 Ich kann mit Parameteränderungen in Funktionen umgehen.
 
 siehe auch:

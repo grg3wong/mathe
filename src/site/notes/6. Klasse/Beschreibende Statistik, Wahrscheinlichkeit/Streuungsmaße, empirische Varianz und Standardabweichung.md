@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/Streuungsmaße, empirische Varianz und Standardabweichung/"}
+{"dg-publish":true,"permalink":"/6-klasse/beschreibende-statistik-wahrscheinlichkeit/streuungsmasse-empirische-varianz-und-standardabweichung/","tags":["S/S6/S605",6],"dg-note-properties":{"tags":["S/S6/S605",6]}}
 ---
 
-#S605 #S6 #6kl
 Ich kenne Streuungsmaße, empirische Varianz und empirische Standardabweichung und kann diese anwenden.
 
 siehe auch:
@@ -25,7 +24,7 @@ ___
 - $y_1, y_2,..., y_n$ mit  [arithm. Mittel](Zentralmaße (arithmetisches Mittel, Modus, Median)#arithmetisches Mittel)  $\bar{y}$ und emp. Stabw. $s_y$
 ### Verschiebung um c
 Ist $y_i=x_i+c$ für alle i=1,...,n, dann ist $\bar{y} =\bar{x}+c$ und $s_y=s_x$.
-![Pasted image 20230912093324.png|150](/img/user/0%20Meta/Bilder/Pasted%20image%2020230912093324.png)
+![varianz_verschiebung.png\|150](/img/user/0%20Meta/Bilder/varianz_verschiebung.png)
 ### Vielfaches von c
 Ist $y_i=c\cdot x_i$ für alle i=1,...,n, dann ist $\bar{y} =c\cdot \bar{x}$ und $s_y=c \cdot s_x$.
-![Pasted image 20230912093353.png|150](/img/user/0%20Meta/Bilder/Pasted%20image%2020230912093353.png)
+![varianz_faktor.png\|150](/img/user/0%20Meta/Bilder/varianz_faktor.png)

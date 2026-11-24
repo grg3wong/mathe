@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Vektoren/Rechenoperationen bei Vektoren/"}
+{"dg-publish":true,"permalink":"/5-klasse/vektoren/rechenoperationen-bei-vektoren/","dg-note-properties":{"permalink":"/5. Klasse/Vektoren/Rechenoperationen bei Vektoren/"}}
 ---
+
 
 #G513 #G5 #5kl
 Ich kann die Rechenoperationen Addition, Subtraktion und Multiplikation mit einem Skalar verständig einsetzen.

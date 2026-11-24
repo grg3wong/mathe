@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Vektoren/Ortsvektoren, parallele & orthogonale Vektoren/"}
+{"dg-publish":true,"permalink":"/5-klasse/vektoren/ortsvektoren-parallele-and-orthogonale-vektoren/","dg-note-properties":{}}
 ---
 
-#G515 #G5 #5kl
+#G/G5/G515 #G/G5 #5
 Ich kann mit Ortsvektoren, parallelen & orthogonalen Vektoren umgehen.
 
 siehe auch:

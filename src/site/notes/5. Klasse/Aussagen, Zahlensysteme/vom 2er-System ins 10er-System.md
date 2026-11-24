@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/vom 2er-System ins 10er-System/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/vom-2er-system-ins-10er-system/","dg-note-properties":{}}
 ---
 
-#Z515 #Z5 #5kl 
+#Z/Z5/Z515 #5 
 Ich kann Zahlen vom 2er-System ins 10er-System umwandeln.
 
 siehe auch:

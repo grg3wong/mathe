@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Funktionen/Funktion definieren/"}
+{"dg-publish":true,"permalink":"/5-klasse/funktionen/funktion-definieren/","dg-note-properties":{}}
 ---
 
-#F507 #F5 #5kl
+#F/F5/F507 #F/F5 #5
 Ich kann den Funktionsbegriff definieren.
 
 siehe auch:

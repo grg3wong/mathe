@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/Quartile, Perzentile und Boxplots/"}
+{"dg-publish":true,"permalink":"/6-klasse/beschreibende-statistik-wahrscheinlichkeit/quartile-perzentile-und-boxplots/","tags":["S/S6/S606",6],"dg-note-properties":{"tags":["S/S6/S606",6]}}
 ---
 
-#S606 #S6 #6kl
 Ich kenne Quartile & Perzentile und kann Boxplots interpretieren und anwenden.
 
 siehe auch:
 ___
-S606 #6kl 
+S606 #6 
 geordnete Datenliste mit n Elementen
 
 min, q1, median, q3, max

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Quadratische Gleichungen/Wertetabellen von Funktionen/"}
+{"dg-publish":true,"permalink":"/5-klasse/quadratische-gleichungen/wertetabellen-von-funktionen/","dg-note-properties":{"permalink":"/5. Klasse/Quadratische Gleichungen/Wertetabellen von Funktionen/"}}
 ---
+
 
 #V502 #V5 #5kl
 Ich kann Wertetabellen von Funktionen erstellen.

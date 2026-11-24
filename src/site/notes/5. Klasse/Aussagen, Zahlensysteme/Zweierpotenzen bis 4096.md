@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/Zweierpotenzen bis 4096/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/zweierpotenzen-bis-4096/","dg-note-properties":{"permalink":"/5. Klasse/Aussagen, Zahlensysteme/Zweierpotenzen bis 4096/"}}
 ---
+
 
 #Z511 #Z5 #5kl
 Ich kann die Zweierpotenzen bis 4096.

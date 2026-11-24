@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Trigonometrie, Polarkoordinaten/Skizzen zu trigonometrischen Textbeispielen/"}
+{"dg-publish":true,"permalink":"/5-klasse/trigonometrie-polarkoordinaten/skizzen-zu-trigonometrischen-textbeispielen/","dg-note-properties":{}}
 ---
 
-#G507 #G5 #5kl
+#G/G5/G507 #5
 Ich kann Skizzen zu trigonometrischen Textbeispielen erstellen.
 
 siehe auch:

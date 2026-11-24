@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/Quadratzahlen bis 441 können/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/quadratzahlen-bis-441-koennen/","dg-note-properties":{}}
 ---
 
-#Z510 #Z5 #5kl 
+#Z/Z5/Z510  #5 
 Ich kann die Quadratzahlen bis 441.
 
 siehe auch:

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Quadratische Gleichungen/quadratische Gleichungen mit Parametern/"}
+{"dg-publish":true,"permalink":"/5-klasse/quadratische-gleichungen/quadratische-gleichungen-mit-parametern/","dg-note-properties":{"permalink":"/5. Klasse/Quadratische Gleichungen/quadratische Gleichungen mit Parametern/"}}
 ---
+
 
 #V509 #V5 #5kl
 Ich kann quadratische Gleichungen mit Parametern lösen und Lösungsfälle untersuchen.

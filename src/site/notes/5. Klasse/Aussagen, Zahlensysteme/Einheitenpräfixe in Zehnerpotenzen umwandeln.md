@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/Einheitenpräfixe in Zehnerpotenzen umwandeln/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/einheitenpraefixe-in-zehnerpotenzen-umwandeln/","dg-note-properties":{}}
 ---
 
-#Z503 #Z5 #5kl
+#Z/Z5/Z503 #5
 Ich kann die Präfixe von Einheiten in Zehnerpotenzen umwandeln.
 
 siehe auch:

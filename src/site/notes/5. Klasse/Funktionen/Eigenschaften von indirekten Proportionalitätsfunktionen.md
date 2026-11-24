@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Funktionen/Eigenschaften von indirekten Proportionalitätsfunktionen/"}
+{"dg-publish":true,"permalink":"/5-klasse/funktionen/eigenschaften-von-indirekten-proportionalitaetsfunktionen/","dg-note-properties":{}}
 ---
 
-#F502 #F5 #5kl
+#F/F5/F502 #F/F5 #5
 Ich kenne die charakteristische Eigenschaften einer indirekten Proportionalitätsfunktion.
 
 siehe auch:

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Funktionen/Funktionen aus Formeln/"}
+{"dg-publish":true,"permalink":"/5-klasse/funktionen/funktionen-aus-formeln/","dg-note-properties":{}}
 ---
 
-#F505 #F5 #5kl
+#F/F5/F505 #F/F5 #5
 Ich kann aus Formeln Funktionen herauslesen.
 
 siehe auch:

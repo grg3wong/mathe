@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Beschreibende Statistik, Wahrscheinlichkeit/absolute und relative Häufigkeiten und graphische Darstellungen/"}
+{"dg-publish":true,"permalink":"/6-klasse/beschreibende-statistik-wahrscheinlichkeit/absolute-und-relative-haeufigkeiten-und-graphische-darstellungen/","tags":["S/S6/S602",6],"dg-note-properties":{"tags":["S/S6/S602",6]}}
 ---
 
-#S602 #S6 #6kl
 Ich kann absolute und relative Häufigkeiten ermitteln und kann diese Tabellen und graphische Darstellungen erstellen und interpretieren.
 siehe auch:
 ___

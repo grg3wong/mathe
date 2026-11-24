@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/Umwandeln von  Mengen, Ungleichungen und Intervallen/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/umwandeln-von-mengen-ungleichungen-und-intervallen/","dg-note-properties":{}}
 ---
 
-#Z509 #Z5 #5kl
+#Z/Z5/Z509 #5
 Ich kann Mengen als Ungleichungen bzw. Intervalle angeben.
 
 siehe auch:

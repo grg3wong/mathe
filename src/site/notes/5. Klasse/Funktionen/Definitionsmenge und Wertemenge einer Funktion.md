@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Funktionen/Definitionsmenge und Wertemenge einer Funktion/"}
+{"dg-publish":true,"permalink":"/5-klasse/funktionen/definitionsmenge-und-wertemenge-einer-funktion/","dg-note-properties":{}}
 ---
 
-#F510 #F5 #5kl
+#F/F5/F510 #F/F5 #5
 Ich kann Definitionsmenge und Wertemenge einer Funktion bestimmen.
 
 siehe auch:

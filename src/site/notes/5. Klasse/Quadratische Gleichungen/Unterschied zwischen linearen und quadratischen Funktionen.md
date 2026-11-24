@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Quadratische Gleichungen/Unterschied zwischen linearen und quadratischen Funktionen/"}
+{"dg-publish":true,"permalink":"/5-klasse/quadratische-gleichungen/unterschied-zwischen-linearen-und-quadratischen-funktionen/","dg-note-properties":{}}
 ---
 
-#V501 #V5 #5kl
+#V/V5/V501 #V/V5 #5
 Ich kann den Unterschied zwischen linearen und quadratischen Gleichungen bzw. Funktionen erklären.
 siehe auch:
 ___

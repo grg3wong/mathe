@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Quadratische Gleichungen/Lösungsformel für quadratische Gleichungen/"}
+{"dg-publish":true,"permalink":"/5-klasse/quadratische-gleichungen/loesungsformel-fuer-quadratische-gleichungen/","dg-note-properties":{}}
 ---
 
-#V507 #V5 #5kl
+#V/V5/V507 #V/V5 #5
 Ich kann die große und kleine Lösungsformel für quadratische Gleichungen anwenden.
 
 siehe auch:

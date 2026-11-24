@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. Klasse/Aussagen, Zahlensysteme/Mengenverknüpfungen/"}
+{"dg-publish":true,"permalink":"/5-klasse/aussagen-zahlensysteme/mengenverknuepfungen/","dg-note-properties":{}}
 ---
 
-#Z506 #Z5 #5kl
+#Z/Z5/Z506 #5
 Ich kann mit Mengenverknüpfungen ( ⋂∪﹨) umgehen.
 
 siehe auch:
