@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Differentialrechnung/Tangensfunktion ableiten/"}
+{"dg-publish":true,"permalink":"/7-klasse/differentialrechnung/tangensfunktion-ableiten/","tags":["F/F7/F716",7],"dg-note-properties":{"tags":["F/F7/F716",7]}}
 ---
 
-#F716 #F7 #7kl
 Ich kann die Tangensfunktion ableiten.
 
-siehe auch:
+Vorwissen:: [[7. Klasse/Differentialrechnung/Sinus- und Cosinusfunktion ableiten\|Sinus- und Cosinusfunktion ableiten]]
 ___

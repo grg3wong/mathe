@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Potenzen, Wurzeln, Logarithmen/Potenzen mit natürlichen Exponenten und Rechenregeln/"}
+{"dg-publish":true,"permalink":"/6-klasse/potenzen-wurzeln-logarithmen/potenzen-mit-natuerlichen-exponenten-und-rechenregeln/","dg-note-properties":{}}
 ---
 
-#Z601 #Z6 #6kl
+#Z/Z6/Z601 #Z/Z6 #6
 Ich kenne die Definition der Potenzen mit natürlichen Exponenten und dazugehörige Rechenregeln und kann diese anwenden.
 
 siehe auch:
-#F503 [[5. Klasse/Funktionen/Graphen von quadratische Funktionen\|Graphen von quadratische Funktionen]]
+#F/F5/F503 [[5. Klasse/Funktionen/Graphen von quadratische Funktionen\|Graphen von quadratische Funktionen]]
 
 ___
 

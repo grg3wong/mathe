@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/Drei Ebenen im Raum, Gleichungssysteme in drei Variablen/"}
+{"dg-publish":true,"permalink":"/6-klasse/vektoren-in-r3-geraden-and-ebenen-im-raum-rn/drei-ebenen-im-raum-gleichungssysteme-in-drei-variablen/","dg-note-properties":{}}
 ---
 
-#G621 #G6 #6kl
+#G/G6/G621 #G/G6 #6
 Ich kann die gegenseitige Lage von drei Ebenen im Raum ermitteln, lineare Gleichungssysteme in drei Variablen lösen und geometrisch deuten.
 
 siehe auch:
 ___
 
-![Pasted image 20231019170255.png](/img/user/0%20Meta/Bilder/Pasted%20image%2020231019170255.png)
+![[lagebeziehung_2_ebenen.png\|lagebeziehung_2_ebenen.png]]

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Differentialrechnung/Sinus- und Cosinusfunktion/"}
+{"dg-publish":true,"permalink":"/7-klasse/differentialrechnung/sinus-und-cosinusfunktion/","dg-note-properties":{"permalink":"/7. Klasse/Differentialrechnung/Sinus- und Cosinusfunktion/"}}
 ---
+
 
 #F713 #F7 #7kl
 Ich kann die Sinus- und Cosinusfunktion ableiten.

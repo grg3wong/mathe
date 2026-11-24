@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Differentialrechnung/Logarithmusfunktion ableiten/"}
+{"dg-publish":true,"permalink":"/7-klasse/differentialrechnung/logarithmusfunktion-ableiten/","tags":["F/F7/F720",7],"dg-note-properties":{"tags":["F/F7/F720",7]}}
 ---
 
-#F720 #F7 #7kl
 Ich kann die Logarithmusfunktion ableiten.
 
-siehe auch:
-#F614 [[6. Klasse/Funktionen/Logarithmusfunktion\|Logarithmusfunktion]]
+Vorwissen:: Logarithmusfunktion
 ___

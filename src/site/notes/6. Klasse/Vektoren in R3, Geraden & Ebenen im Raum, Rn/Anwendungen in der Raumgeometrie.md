@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/Anwendungen in der Raumgeometrie/"}
+{"dg-publish":true,"permalink":"/6-klasse/vektoren-in-r3-geraden-and-ebenen-im-raum-rn/anwendungen-in-der-raumgeometrie/","dg-note-properties":{}}
 ---
 
-#G603 #G6 #6kl
+#G/G6/G603 #G/G6 #6
 Ich kann Anwendungen in der Raumgeometrie durchführen.
 
 siehe auch:
@@ -16,4 +16,4 @@ Volumsformeln für
 * Tetraeder
 	$V_T=V_P/6$
 	
-![Pasted image 20231019165749.png|500](/img/user/0%20Meta/Bilder/Pasted%20image%2020231019165749.png)
+![Vektor_Volumen.png\|500](/img/user/0%20Meta/Bilder/Vektor_Volumen.png)

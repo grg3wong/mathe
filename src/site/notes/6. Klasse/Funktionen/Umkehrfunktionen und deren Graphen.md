@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Funktionen/Umkehrfunktionen und deren Graphen/"}
+{"dg-publish":true,"permalink":"/6-klasse/funktionen/umkehrfunktionen-und-deren-graphen/","dg-note-properties":{}}
 ---
 
-#F633 #F6 #6kl
+#F/F6/F633 #6
 Ich kenne Umkehrfunktionen und deren Graphen und kann diese erläutern.
 
 siehe auch:

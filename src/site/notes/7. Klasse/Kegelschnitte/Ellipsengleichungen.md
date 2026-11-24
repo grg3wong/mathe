@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Kegelschnitte/Ellipsengleichungen/"}
+{"dg-publish":true,"permalink":"/7-klasse/kegelschnitte/ellipsengleichungen/","dg-note-properties":{"permalink":"/7. Klasse/Kegelschnitte/Ellipsengleichungen/"}}
 ---
+
 
 #G708 #G7 #7kl
 Ich kann Ellipsen durch Gleichungen beschreiben.

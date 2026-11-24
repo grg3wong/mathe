@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Differentialrechnung/Gleichungen vom Grad 3 oder 4 lösen/"}
+{"dg-publish":true,"permalink":"/7-klasse/differentialrechnung/gleichungen-vom-grad-3-oder-4-loesen/","tags":["F/F7/F701",7],"dg-note-properties":{"tags":["F/F7/F701",7]}}
 ---
 
-#F/F7/F701 #F7 #7kl
 Ich kenne einfache Lösungsmethoden für Gleichungen vom Grad 3 oder 4 (Substitution, Herausheben, Lösungsformeln).
 
-siehe auch:  
-[[7. Klasse/Differentialrechnung/Gleichungen vom Grad 3 oder 4 lösen#603\|#603]] [[6. Klasse/Potenzen, Wurzeln, Logarithmen/Wurzeln und Rechenregeln\|Wurzeln und Rechenregeln]] 
-[Potenzfunktionen](https://prezi.com/mdubtx1upy3v/potenzfunktionen/)
-[[0 Meta/4 Formeln#Binomische Formeln\|Binomische Formeln]]
-[[5. Klasse/Quadratische Gleichungen/5. Klasse Quadratische Gleichungen\|5. Klasse Quadratische Gleichungen]]
-	[[5. Klasse/Quadratische Gleichungen/Satzgruppe von Vieta\|Satzgruppe von Vieta]]
+Vorwissen:: [[6. Klasse/Potenzen, Wurzeln, Logarithmen/Wurzeln und Rechenregeln\|Wurzeln und Rechenregeln]], [Potenzfunktionen](https://prezi.com/mdubtx1upy3v/potenzfunktionen/), [[0 Meta/4 Formeln#Binomische Formeln\|Binomische Formeln]], [[5. Klasse/Quadratische Gleichungen/5. Klasse Quadratische Gleichungen\|5. Klasse Quadratische Gleichungen]], [[5. Klasse/Quadratische Gleichungen/Satzgruppe von Vieta\|Satzgruppe von Vieta]]
 ___
 - ## Produkt-Null-Satz: 
 	Ein Produkt ist genau dann null, wenn mindestens einer der Faktoren null ist.
@@ -32,8 +26,8 @@ ___
 
 ## Geogebra
  ![]
-![Pasted image 20230911131644.png|250](/img/user/0%20Meta/Bilder/Pasted%20image%2020230911131644.png)
+![ggb_cas_quadr_gl.png\|250](/img/user/0%20Meta/Bilder/ggb_cas_quadr_gl.png)
 
 ## MathCad
-![MathCad_Gleichungen.png|250](/img/user/0%20Meta/Bilder/MathCad_Gleichungen.png)
-![MathCad_Gleichungen_reelle_Lösungen.png|250](/img/user/0%20Meta/Bilder/MathCad_Gleichungen_reelle_L%C3%B6sungen.png)
+![[MathCad_Gleichungen.png\|250]]
+![MathCad_Gleichungen_reelle_Lösungen.png\|250](/img/user/0%20Meta/Bilder/MathCad_Gleichungen_reelle_L%C3%B6sungen.png)

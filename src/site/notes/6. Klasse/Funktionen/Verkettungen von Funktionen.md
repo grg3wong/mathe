@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Funktionen/Verkettungen von Funktionen/"}
+{"dg-publish":true,"permalink":"/6-klasse/funktionen/verkettungen-von-funktionen/","dg-note-properties":{}}
 ---
 
-#F632 #F6 #6kl
+#F/F6/F632 #F/F6 #6
 Ich kenne Verkettungen von Funktionen und kann diese an Beispielen erläutern.
 
 siehe auch:

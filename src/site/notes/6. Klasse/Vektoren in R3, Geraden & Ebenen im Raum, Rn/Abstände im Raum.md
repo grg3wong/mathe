@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/Abstände im Raum/"}
+{"dg-publish":true,"permalink":"/6-klasse/vektoren-in-r3-geraden-and-ebenen-im-raum-rn/abstaende-im-raum/","tags":["#G/G6/G622",6],"dg-note-properties":{"tags":["#G/G6/G622",6]}}
 ---
 
-#G622 #G6 #6kl
+
 Ich kann Abstände im Raum ermitteln.
 
 siehe auch:
-#G520[[5. Klasse/Vektoren/Abstand Punkt-Gerade\|Abstand Punkt-Gerade]]
+#G/G5/G520[[5. Klasse/Vektoren/Abstand Punkt-Gerade\|Abstand Punkt-Gerade]]
 ___
 

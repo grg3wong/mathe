@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/Rechenoperationen  von Vektoren in R3 geometrisch/"}
+{"dg-publish":true,"permalink":"/6-klasse/vektoren-in-r3-geraden-and-ebenen-im-raum-rn/rechenoperationen-von-vektoren-in-r3-geometrisch/","dg-note-properties":{}}
 ---
 
-#G602 #G6 #6kl
+#G/G6/G602 #G/G6 #6
 Ich kann Vektoren in ℝ³ und deren Rechenoperationen geometrisch deuten.
 
 siehe auch: [[5. Klasse/Vektoren/Rechenoperationen bei Vektoren\|Rechenoperationen bei Vektoren]]
@@ -18,4 +18,4 @@ $\vec{a} \pm \vec{b}=\left(\begin{array}{c} x_a \pm x_b\\ y_a \pm y_b\\ z_y \pm 
 $r \cdot \vec{a}=\left(\begin{array}{c} r \cdot x_a \\ r \cdot y_a \\ r \cdot z_y\end{array}\right)$
 [ggbm.at/ednWkTvV](https://ggbm.at/ednWkTvV)]
 
-![Pasted image 20231019164210.png|350](/img/user/0%20Meta/Bilder/Pasted%20image%2020231019164210.png)
+![vektor_R3.png\|350](/img/user/0%20Meta/Bilder/vektor_R3.png)

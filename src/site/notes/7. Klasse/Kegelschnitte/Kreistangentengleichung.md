@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Kegelschnitte/Kreistangentengleichung/"}
+{"dg-publish":true,"permalink":"/7-klasse/kegelschnitte/kreistangentengleichung/","tags":["G/G7/G704",7],"dg-note-properties":{"tags":["G/G7/G704",7]}}
 ---
 
-#G704 #G7 #7kl
 Ich kann die Spaltform den Tangentengleichung Kreisen anwenden.
 
-siehe auch:
+siehe auch:: [[7. Klasse/Kegelschnitte/Lagen von Kreis und Gerade\|Lagen von Kreis und Gerade]]
 ___

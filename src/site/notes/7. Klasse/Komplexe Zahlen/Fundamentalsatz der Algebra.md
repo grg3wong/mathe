@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Komplexe Zahlen/Fundamentalsatz der Algebra/"}
+{"dg-publish":true,"permalink":"/7-klasse/komplexe-zahlen/fundamentalsatz-der-algebra/","tags":["Z/Z7/Z704",7],"dg-note-properties":{"tags":["Z/Z7/Z704",7]}}
 ---
 
-#Z704 #Z7 #7kl
 Ich kenne den Fundamentalsatz der Algebra.
 
 siehe auch:

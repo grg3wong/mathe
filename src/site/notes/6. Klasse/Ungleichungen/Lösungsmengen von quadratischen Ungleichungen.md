@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Ungleichungen/Lösungsmengen von quadratischen Ungleichungen/"}
+{"dg-publish":true,"permalink":"/6-klasse/ungleichungen/loesungsmengen-von-quadratischen-ungleichungen/","dg-note-properties":{"permalink":"/6. Klasse/Ungleichungen/Lösungsmengen von quadratischen Ungleichungen/"}}
 ---
+
 
 #V604 #V6 #6kl
 Ich kann Lösungsmengen von quadratischen Ungleichungen ermitteln und graphisch darstellen.

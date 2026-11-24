@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Differentialrechnung/Historisches zur Differentialrechnung/"}
+{"dg-publish":true,"permalink":"/7-klasse/differentialrechnung/historisches-zur-differentialrechnung/","tags":["F/F7/F727",7],"dg-note-properties":{"tags":["F/F7/F727",7]}}
 ---
 
-#F727 #F7 #7kl
 Ich kenne Historisches zur Differentialrechnung.
 
 siehe auch:

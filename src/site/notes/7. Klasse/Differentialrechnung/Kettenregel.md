@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Differentialrechnung/Kettenregel/"}
+{"dg-publish":true,"permalink":"/7-klasse/differentialrechnung/kettenregel/","tags":["F/F7/F718",7],"dg-note-properties":{"tags":["F/F7/F718",7]}}
 ---
 
-#F718 #F7 #7kl
 Ich kann die Kettenregel beim Ableiten anwenden.
 
-siehe auch:
-#F632 [[6. Klasse/Funktionen/Verkettungen von Funktionen\|Verkettungen von Funktionen]]
+Vorwissen:: Verkettungen von Funktionen
 ___

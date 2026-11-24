@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/Vektoren mit n-dimensionalen Koordinaten/"}
+{"dg-publish":true,"permalink":"/6-klasse/vektoren-in-r3-geraden-and-ebenen-im-raum-rn/vektoren-mit-n-dimensionalen-koordinaten/","dg-note-properties":{"permalink":"/6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/Vektoren mit n-dimensionalen Koordinaten/"}}
 ---
+
 
 #G631 #G6 #6kl
 Ich kenne Vektoren mit n-dimensionalen Koordinaten und kann diese anwenden.

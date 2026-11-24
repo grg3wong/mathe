@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Ungleichungen/Lineare Ungleichungen mit Beträgen oder Parametern/"}
+{"dg-publish":true,"permalink":"/6-klasse/ungleichungen/lineare-ungleichungen-mit-betraegen-oder-parametern/","dg-note-properties":{}}
 ---
 
-#V603 #V6 #6kl
+#V/V6/V603 #V/V6 #6
 Ich kann lineare Ungleichungen mit Beträgen oder Parametern lösen.
 
 siehe auch:

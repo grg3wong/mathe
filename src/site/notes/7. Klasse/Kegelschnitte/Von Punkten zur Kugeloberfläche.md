@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Kegelschnitte/Von Punkten zur Kugeloberfläche/"}
+{"dg-publish":true,"permalink":"/7-klasse/kegelschnitte/von-punkten-zur-kugeloberflaeche/","dg-note-properties":{"permalink":"/7. Klasse/Kegelschnitte/Von Punkten zur Kugeloberfläche/"}}
 ---
+
 
 #G706 #G7 #7kl
 Ich kann aus Punkten auf der Kugeloberfläche (und dem Mittelpunkt) die Kugelgleichung ermitteln.

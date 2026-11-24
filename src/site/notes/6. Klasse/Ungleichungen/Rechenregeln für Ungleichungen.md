@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Ungleichungen/Rechenregeln für Ungleichungen/"}
+{"dg-publish":true,"permalink":"/6-klasse/ungleichungen/rechenregeln-fuer-ungleichungen/","dg-note-properties":{"permalink":"/6. Klasse/Ungleichungen/Rechenregeln für Ungleichungen/"}}
 ---
+
 
 #V601 #V6 #6kl
 Ich kenne Rechenregeln für Ungleichungen und kann diese anwenden.

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/Parameterdarstellungen von Ebenen/"}
+{"dg-publish":true,"permalink":"/6-klasse/vektoren-in-r3-geraden-and-ebenen-im-raum-rn/parameterdarstellungen-von-ebenen/","dg-note-properties":{}}
 ---
 
-#G612 #G6 #6kl
+#G/G6/G612 #G/G6 #6
 Ich kann Parameterdarstellungen von Ebenen im Raum angeben.
 
 siehe auch:
 ___
-G612 #6kl 
-![Pasted image 20231019170032.png](/img/user/0%20Meta/Bilder/Pasted%20image%2020231019170032.png)
-![Pasted image 20231019170105.png](/img/user/0%20Meta/Bilder/Pasted%20image%2020231019170105.png)
+G612 #6 
+![[ebene_aufstellen_3_punkte.png\|ebene_aufstellen_3_punkte.png]]
+![[ebene_aufstellen_geraden.png\|ebene_aufstellen_geraden.png]]

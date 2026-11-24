@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Kegelschnitte/Von Kreisgleichung zu Punkten/"}
+{"dg-publish":true,"permalink":"/7-klasse/kegelschnitte/von-kreisgleichung-zu-punkten/","tags":["G/G7/G701",7],"dg-note-properties":{"tags":["G/G7/G701",7]}}
 ---
 
-#G701 #G7 #7kl
 Ich kann aus einer Kreisgleichung Punkte auf der Kreislinie und den Mittelpunkt ermitteln.
 
 siehe auch:

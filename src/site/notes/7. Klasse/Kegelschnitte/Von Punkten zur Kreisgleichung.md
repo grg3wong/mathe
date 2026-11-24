@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Kegelschnitte/Von Punkten zur Kreisgleichung/"}
+{"dg-publish":true,"permalink":"/7-klasse/kegelschnitte/von-punkten-zur-kreisgleichung/","dg-note-properties":{"permalink":"/7. Klasse/Kegelschnitte/Von Punkten zur Kreisgleichung/"}}
 ---
+
 
 #G702 #G7 #7kl
 

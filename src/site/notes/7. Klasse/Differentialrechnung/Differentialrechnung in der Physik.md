@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Differentialrechnung/Differentialrechnung in der Physik/","tags":["7kl","F/F7/F729"]}
+{"dg-publish":true,"permalink":"/7-klasse/differentialrechnung/differentialrechnung-in-der-physik/","tags":["F/F7/F729"],"dg-note-properties":{"tags":["F/F7/F729"]}}
 ---
 
 Ich kenne Anwendungen der Differentialrechnung in der Physik.

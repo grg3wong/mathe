@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Funktionen/Reihen und Folgen/unendliche Reihen in der Finanzmathematik/"}
+{"dg-publish":true,"permalink":"/6-klasse/funktionen/reihen-und-folgen/unendliche-reihen-in-der-finanzmathematik/","dg-note-properties":{}}
 ---
 
-#F653 #F6 #6kl
+#F/F6/F653 #F/F6 #6
 Ich kenne Anwendungen unendlicher Reihen auf Probleme der Finanzmathematik.
 
 siehe auch:

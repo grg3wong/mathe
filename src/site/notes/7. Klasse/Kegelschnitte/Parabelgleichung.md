@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Kegelschnitte/Parabelgleichung/"}
+{"dg-publish":true,"permalink":"/7-klasse/kegelschnitte/parabelgleichung/","dg-note-properties":{"permalink":"/7. Klasse/Kegelschnitte/Parabelgleichung/"}}
 ---
+
 
 #G714 #G7 #7kl
 Ich kann Parabeln durch Gleichungen beschreiben.

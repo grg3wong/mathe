@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Kegelschnitte/Ellipsentangentengleichungen/"}
+{"dg-publish":true,"permalink":"/7-klasse/kegelschnitte/ellipsentangentengleichungen/","dg-note-properties":{"permalink":"/7. Klasse/Kegelschnitte/Ellipsentangentengleichungen/"}}
 ---
+
 
 #G710 #G7 #7kl
 Ich kann mit der Spaltform der Tangentengleichungen bei Ellipsen umgehen.

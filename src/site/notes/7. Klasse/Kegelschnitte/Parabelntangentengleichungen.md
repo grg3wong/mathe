@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Kegelschnitte/Parabelntangentengleichungen/"}
+{"dg-publish":true,"permalink":"/7-klasse/kegelschnitte/parabelntangentengleichungen/","dg-note-properties":{"permalink":"/7. Klasse/Kegelschnitte/Parabelntangentengleichungen/"}}
 ---
+
 
 #G716 #G7 #7kl
 Ich kann mit der Spaltform der Tangentengleichungen bei Parabeln umgehen.

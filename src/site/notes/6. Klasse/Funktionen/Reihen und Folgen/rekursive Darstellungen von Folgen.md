@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Funktionen/Reihen und Folgen/rekursive Darstellungen von Folgen/"}
+{"dg-publish":true,"permalink":"/6-klasse/funktionen/reihen-und-folgen/rekursive-darstellungen-von-folgen/","dg-note-properties":{}}
 ---
 
-#F645 #F6 #6kl
+#F/F6/F645 #F/F6 #6
 Ich kenne rekursive Darstellungen von Folgen.
 
 siehe auch:

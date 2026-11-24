@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Differentialrechnung/Grenzwert exakter/"}
+{"dg-publish":true,"permalink":"/7-klasse/differentialrechnung/grenzwert-exakter/","tags":["F/F7/F726"],"dg-note-properties":{"tags":["F/F7/F726"]}}
 ---
 
-#F726 #F7 #7kl
 Ich kenne eine exaktere Definition des Grenzwerts für Funktionen.
 
-siehe auch:
-#F642[[6. Klasse/Funktionen/Reihen und Folgen/konvergente und divergente Folgen, Grenzwerte\|konvergente und divergente Folgen, Grenzwerte]]
+Vorwissen:: [[6. Klasse/Funktionen/Reihen und Folgen/konvergente und divergente Folgen, Grenzwerte\|konvergente und divergente Folgen, Grenzwerte]], [[7. Klasse/Wahrscheinlichkeitsverteilungen/Grenzwertregeln\|Grenzwertregeln]]
 ___

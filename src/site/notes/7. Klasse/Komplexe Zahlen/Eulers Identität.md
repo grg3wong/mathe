@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Komplexe Zahlen/Eulers Identität/"}
+{"dg-publish":true,"permalink":"/7-klasse/komplexe-zahlen/eulers-identitaet/","tags":["Z/Z7/Z710",7],"dg-note-properties":{"tags":["Z/Z7/Z710",7]}}
 ---
 
-#Z710 #Z7 #7kl
 Ich kenne Eulers Identitätsformel.
 
 siehe auch:
 ___
 
+$e^{i\pi}=-1$

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Funktionen/Monotonie, globale und lokale Extremstellen/"}
+{"dg-publish":true,"permalink":"/6-klasse/funktionen/monotonie-globale-und-lokale-extremstellen/","dg-note-properties":{"permalink":"/6. Klasse/Funktionen/Monotonie, globale und lokale Extremstellen/"}}
 ---
+
 
 #F601 #F6 #6kl
 Ich kenne die Definitionen des Monotonieverhaltens sowie globaler und lokaler Extremstellen und kann diese anwenden.

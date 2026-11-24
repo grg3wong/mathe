@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Funktionen/Potenzfunktionen (einschließlich Wurzelfunktionen) und deren typische Graphen/"}
+{"dg-publish":true,"permalink":"/6-klasse/funktionen/potenzfunktionen-einschliesslich-wurzelfunktionen-und-deren-typische-graphen/","dg-note-properties":{}}
 ---
 
-#F602 #F6 #6kl
+#F/F6/F602 #F/F6 #6
 Ich kenne Potenzfunktionen (einschließlich Wurzelfunktionen) und deren typische Graphenformen.
 
 siehe auch:
-#F502[[5. Klasse/Funktionen/Eigenschaften von indirekten Proportionalitätsfunktionen\|Eigenschaften von indirekten Proportionalitätsfunktionen]]
-#F503[[5. Klasse/Funktionen/Graphen von quadratische Funktionen\|Graphen von quadratische Funktionen]]
+#F/F5/F502[[5. Klasse/Funktionen/Eigenschaften von indirekten Proportionalitätsfunktionen\|Eigenschaften von indirekten Proportionalitätsfunktionen]]
+#F/F5/F503[[5. Klasse/Funktionen/Graphen von quadratische Funktionen\|Graphen von quadratische Funktionen]]
 ___
 $f(x) = c \cdot x^n \ \ n \in \Bbb{N}$
 * Wenn n gerade ist:

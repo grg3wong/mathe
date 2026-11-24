@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Funktionen/Funktionen und Formeln in mehreren Variablen/"}
+{"dg-publish":true,"permalink":"/6-klasse/funktionen/funktionen-und-formeln-in-mehreren-variablen/","dg-note-properties":{}}
 ---
 
-#F631 #F6 #6kl
+#F/F6/F631 #F/F6 #6
 Ich kenne Funktionen in mehreren Variablen und kann in Formeln Funktionen sehen.
 
 siehe auch:
-#F505[[5. Klasse/Funktionen/Funktionen aus Formeln\|Funktionen aus Formeln]]
+#F/F5/F505[[5. Klasse/Funktionen/Funktionen aus Formeln\|Funktionen aus Formeln]]
 ___

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/Vektorprodukt und Normalprojektion/"}
+{"dg-publish":true,"permalink":"/6-klasse/vektoren-in-r3-geraden-and-ebenen-im-raum-rn/vektorprodukt-und-normalprojektion/","dg-note-properties":{}}
 ---
 
-#G604 #G6 #6kl
+#G/G6/G604 #G/G6 #6
 Ich kann das Vektorprodukt und die Normalprojektion von Vektoren in ℝ³ ermitteln und anwenden.
 
 siehe auch:
-#G512[[5. Klasse/Trigonometrie, Polarkoordinaten/Definitionen der Rechenoperationen mit Vektoren\|Definitionen der Rechenoperationen mit Vektoren]]
+#G/G5/G512[[5. Klasse/Trigonometrie, Polarkoordinaten/Definitionen der Rechenoperationen mit Vektoren\|Definitionen der Rechenoperationen mit Vektoren]]
 ___
 Multiplikation zweier Vektoren, die einen Vektor ergibt.
 Eigenschaften des neuen Vektors:
@@ -20,5 +20,5 @@ Eigenschaften des neuen Vektors:
 
 $\begin{pmatrix} x_a  \\ y_a \\ z_a \end{pmatrix} \times \begin{pmatrix} x_b  \\ y_b \\ z_b \end{pmatrix} = \begin{pmatrix} \ \ \ y_a \cdot z_b - z_a \cdot y_b  \\ -(x_a \cdot y_b - z_a \cdot x_b) \\ \ \ \ y_a \cdot x_b - x_a \cdot y_b \end{pmatrix}$
 
-![Pasted image 20231019164953.png|300](/img/user/0%20Meta/Bilder/Pasted%20image%2020231019164953.png)
+![Kreuzprodukt.png\|300](/img/user/0%20Meta/Bilder/Kreuzprodukt.png)
 

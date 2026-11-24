@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Funktionen/Reihen und Folgen/Summen endlicher arithmetischer und geometrischer Reihen/"}
+{"dg-publish":true,"permalink":"/6-klasse/funktionen/reihen-und-folgen/summen-endlicher-arithmetischer-und-geometrischer-reihen/","tags":["F/F6/F651",6],"dg-note-properties":{"tags":["F/F6/F651",6]}}
 ---
 
-#F651 #F6 #6kl
 Ich kann Summen endlicher arithmetischer und geometrischer Reihen berechnen.
 
 siehe auch:
 ___
-F651 #6kl 
+F651 #6 

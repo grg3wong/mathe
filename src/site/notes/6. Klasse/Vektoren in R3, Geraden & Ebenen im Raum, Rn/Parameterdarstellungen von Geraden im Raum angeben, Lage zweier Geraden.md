@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/Parameterdarstellungen von Geraden im Raum angeben, Lage zweier Geraden/"}
+{"dg-publish":true,"permalink":"/6-klasse/vektoren-in-r3-geraden-and-ebenen-im-raum-rn/parameterdarstellungen-von-geraden-im-raum-angeben-lage-zweier-geraden/","dg-note-properties":{"permalink":"/6. Klasse/Vektoren in R3, Geraden & Ebenen im Raum, Rn/Parameterdarstellungen von Geraden im Raum angeben, Lage zweier Geraden/"}}
 ---
+
 
 #G611 #G6 #6kl
 Ich kann Parameterdarstellungen von Geraden im Raum angeben, die gegenseitige Lagen zweier Geraden im Raum ermitteln und Schnittpunkte berechnen.

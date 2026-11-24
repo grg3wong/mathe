@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Funktionen/Reihen und Folgen/geometrische Folge als Exponentialfunktion, Konvergenz/"}
+{"dg-publish":true,"permalink":"/6-klasse/funktionen/reihen-und-folgen/geometrische-folge-als-exponentialfunktion-konvergenz/","dg-note-properties":{}}
 ---
 
-#F644 #F6 #6kl
+#F/F6/F644 #F/F6 #6
 Ich kenne geometrische Folgen und kann diese als Exponentialfunktion über ℕ bzw. ℕ∗ auffassen und weiß über deren Konvergenz Bescheid.
 
 siehe auch:

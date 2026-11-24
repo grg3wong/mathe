@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Funktionen/Eigenschaften von Exponentialfunktionen/"}
+{"dg-publish":true,"permalink":"/6-klasse/funktionen/eigenschaften-von-exponentialfunktionen/","dg-note-properties":{}}
 ---
 
-#F612 #F6 #6kl
+#F/F6/F612 #F/F6 #6
 Ich kenne charakteristische Eigenschaften von Exponentialfunktionen und kann diese interpretieren.
 
 siehe auch:

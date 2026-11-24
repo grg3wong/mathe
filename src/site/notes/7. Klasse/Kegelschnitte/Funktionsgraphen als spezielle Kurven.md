@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Kegelschnitte/Funktionsgraphen als spezielle Kurven/"}
+{"dg-publish":true,"permalink":"/7-klasse/kegelschnitte/funktionsgraphen-als-spezielle-kurven/","tags":["G/G7/G718",7],"dg-note-properties":{"tags":["G/G7/G718",7]}}
 ---
 
-#G718 #G7 #7kl
 Ich kann Funktionsgraphen als spezielle Kurven auffassen.
 
 siehe auch:

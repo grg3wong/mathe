@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6. Klasse/Ungleichungen/Lösungsmengen von linearen Ungleichungen/"}
+{"dg-publish":true,"permalink":"/6-klasse/ungleichungen/loesungsmengen-von-linearen-ungleichungen/","dg-note-properties":{}}
 ---
 
-#V602 #V6 #6kl
+#V/V6/V602 #V/V6 #6
 Ich kann Lösungsmengen von linearen Ungleichungen und Ungleichungsketten ermitteln und graphisch darstellen.
 
 siehe auch:

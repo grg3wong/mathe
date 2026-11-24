@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Differentialrechnung/Umkehrregel beim Ableiten/"}
+{"dg-publish":true,"permalink":"/7-klasse/differentialrechnung/umkehrregel-beim-ableiten/","tags":["F/F7/F719",7],"dg-note-properties":{"tags":["F/F7/F719",7]}}
 ---
 
-#F719 #F7 #7kl
 Ich kann die Umkehrregel beim Ableiten anwenden.
-
-siehe auch:
-#F633 [[6. Klasse/Funktionen/Umkehrfunktionen und deren Graphen\|Umkehrfunktionen und deren Graphen]]
+Vorwissen::  [[6. Klasse/Funktionen/Umkehrfunktionen und deren Graphen\|Umkehrfunktionen und deren Graphen]]
 ___

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Kegelschnitte/Parameterdarstellungen von Kurven im Raum/"}
+{"dg-publish":true,"permalink":"/7-klasse/kegelschnitte/parameterdarstellungen-von-kurven-im-raum/","tags":["G/G7/G719",7],"dg-note-properties":{"tags":["G/G7/G719",7]}}
 ---
 
-#G719 #G7 #7kl
 Ich kann mit Parameterdarstellungen von Kurven im Raum umgehen.
 
 siehe auch:

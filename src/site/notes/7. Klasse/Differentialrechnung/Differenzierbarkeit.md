@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/7. Klasse/Differentialrechnung/Differenzierbarkeit/"}
+{"dg-publish":true,"permalink":"/7-klasse/differentialrechnung/differenzierbarkeit/","tags":["F/F7/F724",7],"dg-note-properties":{"tags":["F/F7/F724",7]}}
 ---
 
-#F724 #F7 #7kl
 Ich kenne den Begriff der Differenzierbarkeit.
 
-siehe auch:
+siehe auch:: [[7. Klasse/Differentialrechnung/Differenzen- und Differentialquotienten deuten\|Differenzen- und Differentialquotienten deuten]], [[Zwischenwertsatz\|Zwischenwertsatz]]
 ___
