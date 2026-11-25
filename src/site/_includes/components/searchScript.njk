@@ -105,7 +105,10 @@
     function createIndex(posts) {
         const encoder = (str) => str
             .toLowerCase()
-            .split(/([^a-z]|[^\x00-\x7F])/)
+            .split(/([^a-z0-9]|[^\x00-\x7F])/)
+        const tagEncoder = (str) => str
+            .toLowerCase()
+            .split(/\s+/)
         const contentIndex = new FlexSearch.Document({
             cache: true,
             charset: "latin:extra",
@@ -121,8 +124,8 @@
                     encode: encoder
                 }, {
                     field: "tags",
-                    tokenize: "forward",
-                    encode: encoder
+                    tokenize: "strict",
+                    encode: tagEncoder
                 }
             ]
         })
