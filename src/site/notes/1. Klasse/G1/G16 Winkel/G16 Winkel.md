@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-klasse/g1/g16-winkel/g16-winkel/","tags":["#G/G1","1kl"],"dg-note-properties":{"tags":["#G/G1","1kl"]}}
+{"dg-publish":true,"permalink":"/1-klasse/g1/g16-winkel/g16-winkel/","tags":["G/G1","1kl"],"dg-note-properties":{"tags":["G/G1","1kl"]}}
 ---
 
 zurück zur [[1. Klasse/_Übersichten/Übersicht 1. Klasse\|Übersicht 1. Klasse]] oder [[1. Klasse/_Übersichten/Übersicht G1\|Übersicht G1]]
