@@ -6,4 +6,3 @@
 - [[1. Klasse/_Übersichten/Übersicht S1\|Übersicht S1]]
 - [[1. Klasse/_Übersichten/Übersicht V1\|Übersicht V1]]
 - [[1. Klasse/_Übersichten/Übersicht Z1\|Übersicht Z1]]
-![[Pasted image 20260721113829.png\|Pasted image 20260721113829.png]]

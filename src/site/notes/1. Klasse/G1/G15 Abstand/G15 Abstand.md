@@ -4,7 +4,7 @@
 
 zurück zur [[1. Klasse/_Übersichten/Übersicht 1. Klasse\|Übersicht 1. Klasse]] oder [[1. Klasse/_Übersichten/Übersicht G1\|Übersicht G1]]
 
-| #G/G1 #G/G1                                      | Kompetenz                                                                   |
+| #G/G1                                            | Kompetenz                                                                   |
 | :----------------------------------------------- | :-------------------------------------------------------------------------- |
 | [G150](obsidian://search?query=%23G%2FG1%2FG150) | [[1. Klasse/G1/G15 Abstand/G150\|Ich kenne die Längeneinheiten und kann Längen abmessen.]]           |
 | [G151](obsidian://search?query=%23G%2FG1%2FG151) | [[1. Klasse/G1/G15 Abstand/G151\|Ich kenne den Abstand zwischen zwei Punkten und kann ihn angeben.]] |

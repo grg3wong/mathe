@@ -4,7 +4,7 @@
 
 zurück zur [[1. Klasse/_Übersichten/Übersicht 1. Klasse\|Übersicht 1. Klasse]] oder [[1. Klasse/_Übersichten/Übersicht G1\|Übersicht G1]]
 
-| #G/G1 #G/G1                                      | Kompetenz                                                                                                                 |
+| #G/G1                                            | Kompetenz                                                                                                                 |
 | :----------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
 | [G130](obsidian://search?query=%23G%2FG1%2FG130) | [[1. Klasse/G1/G13 Körper/G130\|Ich kann Würfel, Quader, Zylinder, Pyramide, Kegel und Kugel benennen.]]                                          |
 | [G131](obsidian://search?query=%23G%2FG1%2FG131) | [[1. Klasse/G1/G13 Körper/G131\|Ich kann Grundkörper in zusammengesetzten Körpern erkennen.]]                                                     |

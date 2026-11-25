@@ -4,7 +4,7 @@
 
 zurück zur [[1. Klasse/_Übersichten/Übersicht 1. Klasse\|Übersicht 1. Klasse]] oder [[1. Klasse/_Übersichten/Übersicht G1\|Übersicht G1]]
 
-| #G/G1 #G/G1                                      | Kompetenz                                                                                                           |
+| #G/G1                                            | Kompetenz                                                                                                           |
 | :----------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
 | [G110](obsidian://search?query=%23G%2FG1%2FG110) | [[1. Klasse/G1/G11 Kreis/G110\|Ich kann einen Kreis und Kreismuster mit dem Zirkel zeichnen.]]                                             |
 | [G111](obsidian://search?query=%23G%2FG1%2FG111) | [[1. Klasse/G1/G11 Kreis/G111\|Ich kann Kreismittelpunkt, Radius, Durchmesser und Kreislinie beschriften.]]                                |
