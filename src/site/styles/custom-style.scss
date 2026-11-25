@@ -15,8 +15,8 @@ img { float: none !important; display: block; margin: 1rem 0; }
 img { float: none !important; display: block; width: auto !important; max-width: 100% !important; height: auto !important; margin: 1rem 0; }
 @media (min-width: 1000px) {
   .content {
-    margin-left: 2em !important;
-    margin-right: 2em !important;
+    margin-left: calc(260px + 2em) !important;
+    margin-right: calc(300px + 2em) !important;
     max-width: none !important;
   }
 
